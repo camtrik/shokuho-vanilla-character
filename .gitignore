@@ -1,0 +1,11 @@
+*
+!.gitignore
+
+!VanillaCharacter/
+!VanillaCharacter/**
+!VanillaCharacterFemale/
+!VanillaCharacterFemale/**
+!VanillaFace/
+!VanillaFace/**
+!VanillaFaceFemale/
+!VanillaFaceFemale/**
