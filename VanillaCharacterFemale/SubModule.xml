@@ -12,7 +12,6 @@
     <DependedModule Id="Sandbox" DependentVersion="v1.2.12" />
     <DependedModule Id="StoryMode" DependentVersion="v1.2.12" />
     <DependedModule Id="CustomBattle" DependentVersion="v1.2.12" optional="true" />
-    <DependedModule Id="Shokuho" DependentVersion="v1.0.0.9" />
   </DependedModules>
   <DependedModuleMetadatas>
     <DependedModuleMetadata id="Native" order="LoadBeforeThis" />
@@ -20,7 +19,6 @@
     <DependedModuleMetadata id="Sandbox" order="LoadBeforeThis" />
     <DependedModuleMetadata id="StoryMode" order="LoadBeforeThis" />
     <DependedModuleMetadata id="CustomBattle" order="LoadBeforeThis" optional="true" />
-    <DependedModuleMetadata id="Shokuho" order="LoadBeforeThis" />
   </DependedModuleMetadatas>
   <SubModules />
   <Xmls>
@@ -30,7 +28,6 @@
         <GameType value="Campaign" />
         <GameType value="CampaignStoryMode" />
         <GameType value="CustomGame" />
-        <GameType value="ShokuhoCampaign" />
       </IncludedGameTypes>
     </XmlNode>
   </Xmls>
