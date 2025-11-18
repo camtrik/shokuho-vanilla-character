@@ -1,6 +1,6 @@
 ﻿<Module>
-  <Name value="Vanilla Character"/>
-  <Id value="VanillaCharacter"/>
+  <Name value="Vanilla Character Female"/>
+  <Id value="VanillaCharacterFemale"/>
   <Version value="v1.0.0"/>
   <DefaultModule value="false"/>
   <SingleplayerModule value="true"/>

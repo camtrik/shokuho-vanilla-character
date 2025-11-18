@@ -1,7 +1,7 @@
 ﻿<Module>
-  <Name value="Vanilla Face"/>
-  <Id value="VanillaFace"/>
-  <Version value="v1.0.1"/>
+  <Name value="Vanilla Face Female"/>
+  <Id value="VanillaFaceFemale"/>
+  <Version value="v1.0.0"/>
   <DefaultModule value="false"/>
   <SingleplayerModule value="true"/>
   <MultiplayerModule value="false"/>
