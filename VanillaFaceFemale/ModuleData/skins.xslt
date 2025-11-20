@@ -1,11 +1,11 @@
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+﻿<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output omit-xml-declaration="yes"/>
   <xsl:template match="@*|node()">
     <xsl:copy>
       <xsl:apply-templates select="@*|node()"/>
     </xsl:copy>
   </xsl:template>
-  <xsl:template match="skin[@name='woman']">
+  <xsl:template match="race[@id='human']/skin[@name='woman']">
     <skin gender="1" name="woman" mesh_maturity_type="adult" morph_key="1" uses_stitching="true" body_mesh_suffix="_fem" min_scale="1.06" skeleton="human_skeleton" body_meta_mesh="body_female_japanese" body_meta_mesh_shoulders="body_female_a_sh" body_meta_mesh_upperbody="box_a" legs_mesh="feet_female_japanese" hands_mesh="hands_female_japanese" face_meta_mesh="head_female_a" underwear_bottom_mesh="sho_female_underwear" underwear_top_mesh="sho_female_underwear">
       <deform_keys>
         <deform_key id="face_width" key_time_point="1" key_min="-0.3" key_max="0.9" name="Face Width" group_id="1" helmet_scaling_factor_min="-0.1, 0.0, 0.0" helmet_scaling_factor_max="0.02, 0.0, 0.0" deforms_hair="1.0" />
@@ -572,13 +572,7 @@
     	  <mouth_texture name="mouth_mat_b" lod_material="mouth_mat" color="0xFFFFFFFF" tags="mouth_texture13,mouth_texture14">
     	  </mouth_texture>-->
       </mouth_textures>
-      <voice_types>
-        <voice_type name="female_01" />
-        <voice_type name="female_02" />
-        <voice_type name="female_03" />
-        <voice_type name="female_04" />
-        <voice_type name="female_05" />
-      </voice_types>
+      
       <constraints>
         <constraint proportional_negative_and_positive="1.0">
           <term coefficient="1.0" key_id="height" />
@@ -589,10 +583,11 @@
           <term coefficient="1.0" key_id="kid_face" />
         </constraint>
       </constraints>
-    </skin>
+    <xsl:copy-of select='voice_types'/>
+  </skin>
   </xsl:template>
 
-  <xsl:template match="skin[@name='kid_1_female']">
+  <xsl:template match="race[@id='human']/skin[@name='kid_1_female']">
     <skin gender="1" name="kid_1_female" mesh_maturity_type="tween" morph_key="1" uses_stitching="true" body_mesh_suffix="_fem" min_scale="0.78" skeleton="human_skeleton" body_meta_mesh="body_female_japanese" body_meta_mesh_shoulders="body_female_a_sh" body_meta_mesh_upperbody="box_a" legs_mesh="feet_female_japanese" hands_mesh="hands_female_japanese" face_meta_mesh="head_female_a" underwear_bottom_mesh="underwear_female" underwear_top_mesh="underwear_female_top">
       <deform_keys>
         <deform_key id="face_width" key_time_point="1" key_min="-0.2" key_max="0.8" name="Face Width" group_id="1" helmet_scaling_factor_min="-0.0, 0.0, 0.0" helmet_scaling_factor_max="0.04, 0.0, 0.0" deforms_hair="1.0" />
@@ -1123,9 +1118,7 @@
     	  <mouth_texture name="mouth_mat_b" lod_material="mouth_mat" color="0xFFFFFFFF" tags="mouth_texture13,mouth_texture14">
     	  </mouth_texture>-->
       </mouth_textures>
-      <voice_types>
-        <voice_type name="female_03" />
-      </voice_types>
+      
       <constraints>
         <constraint proportional_negative_and_positive="1.0">
           <term coefficient="0.5" key_id="height" />
@@ -1137,10 +1130,11 @@
           <term coefficient="1.0" key_id="kid_face" />
         </constraint>
       </constraints>
-    </skin>
+    <xsl:copy-of select='voice_types'/>
+  </skin>
   </xsl:template>
 
-  <xsl:template match="skin[@name='kid_2_female']">
+  <xsl:template match="race[@id='human']/skin[@name='kid_2_female']">
     <skin gender="1" name="kid_2_female" mesh_maturity_type="teenager" morph_key="1" uses_stitching="true" body_mesh_suffix="_fem" min_scale="0.93" skeleton="human_skeleton" body_meta_mesh="body_female_japanese" body_meta_mesh_shoulders="body_female_a_sh" body_meta_mesh_upperbody="box_a" legs_mesh="feet_female_japanese" hands_mesh="hands_female_japanese" face_meta_mesh="head_female_a" underwear_bottom_mesh="underwear_female" underwear_top_mesh="underwear_female_top">
       <deform_keys>
         <deform_key id="face_width" key_time_point="1" key_min="-0.3" key_max="0.9" name="Face Width" group_id="1" helmet_scaling_factor_min="-0.1, 0.0, 0.0" helmet_scaling_factor_max="0.02, 0.0, 0.0" deforms_hair="1.0" />
@@ -1666,12 +1660,7 @@
     	  <mouth_texture name="mouth_mat_b" lod_material="mouth_mat" color="0xFFFFFFFF" tags="mouth_texture13,mouth_texture14">
     	  </mouth_texture>-->
       </mouth_textures>
-      <voice_types>
-        <voice_type name="female_01" />
-        <voice_type name="female_02" />
-        <voice_type name="female_03" />
-        <voice_type name="female_04" />
-      </voice_types>
+      
       <constraints>
         <constraint proportional_negative_and_positive="1.0">
           <term coefficient="0.5" key_id="height" />
@@ -1683,10 +1672,11 @@
           <term coefficient="1.0" key_id="kid_face" />
         </constraint>
       </constraints>
-    </skin>
+    <xsl:copy-of select='voice_types'/>
+  </skin>
   </xsl:template>
 
-  <xsl:template match="skin[@name='kid_3_female']">
+  <xsl:template match="race[@id='human']/skin[@name='kid_3_female']">
     <skin gender="1" name="kid_3_female" mesh_maturity_type="child" morph_key="1" uses_stitching="true" body_mesh_suffix="_fem" min_scale="0.64" skeleton="human_skeleton" body_meta_mesh="body_female_japanese" body_meta_mesh_shoulders="body_female_a_sh" body_meta_mesh_upperbody="box_a" legs_mesh="feet_female_japanese" hands_mesh="hands_female_japanese" face_meta_mesh="head_female_a" underwear_bottom_mesh="underwear_female" underwear_top_mesh="underwear_female_top">
       <deform_keys>
         <deform_key id="face_width" key_time_point="1" key_min="-0.1" key_max="0.8" name="Face Width" group_id="1" helmet_scaling_factor_min="-0.0, 0.0, 0.0" helmet_scaling_factor_max="0.03, 0.0, 0.0" deforms_hair="1.0" />
@@ -2207,9 +2197,7 @@
     	  <mouth_texture name="mouth_mat_b" lod_material="mouth_mat" color="0xFFFFFFFF" tags="mouth_texture13,mouth_texture14">
     	  </mouth_texture>-->
       </mouth_textures>
-      <voice_types>
-        <voice_type name="female_03" />
-      </voice_types>
+      
       <constraints>
         <constraint proportional_negative_and_positive="1.0">
           <term coefficient="0.5" key_id="height" />
@@ -2217,10 +2205,11 @@
           <term coefficient="1.0" key_id="head_scaling" />
         </constraint>
       </constraints>
-    </skin>
+    <xsl:copy-of select='voice_types'/>
+  </skin>
   </xsl:template>
 
-  <xsl:template match="skin[@name='toddler_female']">
+  <xsl:template match="race[@id='human']/skin[@name='toddler_female']">
     <skin gender="1" name="toddler_female" mesh_maturity_type="toddler" morph_key="1" uses_stitching="true" body_mesh_suffix="" min_scale="0.52" skeleton="human_skeleton" body_meta_mesh="body_female_japanese" body_meta_mesh_shoulders="body_female_a_sh" body_meta_mesh_upperbody="box_a" legs_mesh="feet_female_japanese" hands_mesh="hands_female_japanese" face_meta_mesh="head_female_a" underwear_bottom_mesh="underwear_female" underwear_top_mesh="underwear_female_top">
       <deform_keys>
         <deform_key id="face_width" key_time_point="1" key_min="0.0" key_max="0.8" name="Face Width" group_id="1" helmet_scaling_factor_min="0.02, 0.0, 0.0" helmet_scaling_factor_max="0.08, 0.0, 0.0" deforms_hair="1.0" />
@@ -2674,9 +2663,7 @@
       <mouth_textures group_id="4">
         <mouth_texture name="mouth_mat_kid_d" lod_material="mouth_mat" color="0xFFFFFFFF" tags="mouth_texture1,mouth_texture2"></mouth_texture>
       </mouth_textures>
-      <voice_types>
-        <voice_type name="female_01" />
-      </voice_types>
+      
       <constraints>
         <constraint proportional_negative_and_positive="1.0">
           <term coefficient="0.7" key_id="height" />
@@ -2688,7 +2675,11 @@
           <term coefficient="1.0" key_id="kid_face" />
         </constraint>
       </constraints>
-    </skin>
+    <xsl:copy-of select='voice_types'/>
+  </skin>
   </xsl:template>
 
 </xsl:stylesheet>
+
+
+

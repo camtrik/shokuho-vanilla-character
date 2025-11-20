@@ -5,9 +5,15 @@
 !VanillaCharacter/**
 !VanillaCharacterFemale/
 !VanillaCharacterFemale/**
+
 !VanillaFace/
 !VanillaFace/**
 !VanillaFaceFemale/
 !VanillaFaceFemale/**
-!YigameCharacter/
+
+# !YiGuCharacterFemale/
+# !YiGuCharacterFemale/**
+
+# !YiGuFaceFemale/
+# !YiGuFaceFemale/**
 
