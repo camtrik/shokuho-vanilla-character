@@ -613,63 +613,10 @@
         <tattoo_color_gradient_point point="0.05, 0.05, 0.05" />
       </tattoo_color_gradient_points>
       <hair_color_gradient_points>
-        <hair_color_gradient_point point="0.89, 0.89, 0.69" />
-        <hair_color_gradient_point point="0.92, 0.71, 0.43" />
-        <hair_color_gradient_point point="0.68, 0.65, 0.45" />
-        <hair_color_gradient_point point="0.75, 0.53, 0.29" />
-        <hair_color_gradient_point point="0.55, 0.54, 0.35" />
-        <hair_color_gradient_point point="0.63, 0.40, 0.20" />
-        <hair_color_gradient_point point="0.40, 0.40, 0.25" />
-        <hair_color_gradient_point point="0.57, 0.27, 0.12" />
-        <hair_color_gradient_point point="0.29, 0.29, 0.18" />
-        <hair_color_gradient_point point="0.47, 0.17, 0.07" />
-        <hair_color_gradient_point point="0.24, 0.24, 0.15" />
-        <hair_color_gradient_point point="0.40, 0.13, 0.03" />
-        <hair_color_gradient_point point="0.16, 0.16, 0.10" />
-        <hair_color_gradient_point point="0.15, 0.10, 0.07" />
-        <hair_color_gradient_point point="0.14, 0.14, 0.09" />
-        <hair_color_gradient_point point="0.12, 0.08, 0.06" />
-        <hair_color_gradient_point point="0.11, 0.11, 0.08" />
-        <hair_color_gradient_point point="0.10, 0.07, 0.05" />
-        <hair_color_gradient_point point="0.09, 0.09, 0.07" />
-        <hair_color_gradient_point point="0.08, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.05, 0.06, 0.06" />
-        <hair_color_gradient_point point="0.03, 0.03, 0.04" />
-        <hair_color_gradient_point point="0.04, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.01, 0.015, 0.035" />
-        <!--	
-    		
-    
-            <hair_color_gradient_point point="0.99, 0.99, 0.85" />			
-            <hair_color_gradient_point point="0.89, 0.89, 0.69" />			
-            <hair_color_gradient_point point="0.70, 0.65, 0.45" />			
-            <hair_color_gradient_point point="0.61, 0.54, 0.35" />		
-            <hair_color_gradient_point point="0.51, 0.42, 0.25" />				
-            <hair_color_gradient_point point="0.41, 0.33, 0.20" />		
-    
-             <hair_color_gradient_point point="0.92, 0.71, 0.40" />
-            <hair_color_gradient_point point="0.75, 0.53, 0.29" />
-            <hair_color_gradient_point point="0.65, 0.40, 0.20" />		
-            <hair_color_gradient_point point="0.57, 0.27, 0.12" />
-            <hair_color_gradient_point point="0.47, 0.17, 0.07" />	
-            <hair_color_gradient_point point="0.40, 0.13, 0.03" />			
-    				
-            <hair_color_gradient_point point="0.29, 0.11, 0.05" />		
-            <hair_color_gradient_point point="0.21, 0.10, 0.05" />		
-            <hair_color_gradient_point point="0.175, 0.09, 0.04" />		
-            <hair_color_gradient_point point="0.135, 0.08, 0.05" />
-            <hair_color_gradient_point point="0.115, 0.06, 0.035" />
-            <hair_color_gradient_point point="0.06725, 0.045, 0.0285" />	
-    		
-            <hair_color_gradient_point point="0.30, 0.245, 0.15" />		
-            <hair_color_gradient_point point="0.24, 0.195, 0.12" />		
-            <hair_color_gradient_point point="0.180, 0.145, 0.095" />	
-            <hair_color_gradient_point point="0.130, 0.115, 0.080" />	
-            <hair_color_gradient_point point="0.100, 0.085, 0.065" />		
-            <hair_color_gradient_point point="0.050, 0.050, 0.050" />				
-    
-    			
-    			-->
+        <hair_color_gradient_point point="0.04, 0.035, 0.03" />
+        <hair_color_gradient_point point="0.035, 0.03, 0.025" />
+        <hair_color_gradient_point point="0.03, 0.025, 0.02" />
+        <hair_color_gradient_point point="0.025, 0.02, 0.018" />
       </hair_color_gradient_points>
       <skin_color_gradient_points>
         <skin_color_gradient_point point="1.0, 1.0, 1.0" />
@@ -678,24 +625,6 @@
         <skin_color_gradient_point point="0.76, 0.64, 0.60" />
         <skin_color_gradient_point point="0.85, 0.82, 0.65" />
         <skin_color_gradient_point point="0.76, 0.70, 0.55" />
-        <skin_color_gradient_point point="0.68, 0.60, 0.45" />
-        <skin_color_gradient_point point="0.60, 0.52, 0.36" />
-        <skin_color_gradient_point point="0.82, 0.70, 0.45" />
-        <skin_color_gradient_point point="0.71, 0.59, 0.38" />
-        <skin_color_gradient_point point="0.60, 0.48, 0.29" />
-        <skin_color_gradient_point point="0.49, 0.37, 0.22" />
-        <skin_color_gradient_point point="0.50, 0.40, 0.30" />
-        <skin_color_gradient_point point="0.43, 0.33, 0.25" />
-        <skin_color_gradient_point point="0.36, 0.27, 0.20" />
-        <skin_color_gradient_point point="0.33, 0.25, 0.17" />
-        <skin_color_gradient_point point="0.35, 0.25, 0.21" />
-        <skin_color_gradient_point point="0.30, 0.21, 0.18" />
-        <skin_color_gradient_point point="0.25, 0.15, 0.12" />
-        <skin_color_gradient_point point="0.20, 0.12, 0.09" />
-        <skin_color_gradient_point point="0.22, 0.20, 0.16" />
-        <skin_color_gradient_point point="0.17, 0.17, 0.15" />
-        <skin_color_gradient_point point="0.13, 0.11, 0.09" />
-        <skin_color_gradient_point point="0.09, 0.08, 0.04" />
       </skin_color_gradient_points>
       <eye_color_gradient_points>
         <!--Bright Blue-->
@@ -1179,30 +1108,10 @@
         <tattoo_color_gradient_point point="0.05, 0.05, 0.05" />
       </tattoo_color_gradient_points>
       <hair_color_gradient_points>
-        <hair_color_gradient_point point="0.89, 0.89, 0.69" />
-        <hair_color_gradient_point point="0.92, 0.71, 0.43" />
-        <hair_color_gradient_point point="0.68, 0.65, 0.45" />
-        <hair_color_gradient_point point="0.75, 0.53, 0.29" />
-        <hair_color_gradient_point point="0.55, 0.54, 0.35" />
-        <hair_color_gradient_point point="0.63, 0.40, 0.20" />
-        <hair_color_gradient_point point="0.40, 0.40, 0.25" />
-        <hair_color_gradient_point point="0.57, 0.27, 0.12" />
-        <hair_color_gradient_point point="0.29, 0.29, 0.18" />
-        <hair_color_gradient_point point="0.47, 0.17, 0.07" />
-        <hair_color_gradient_point point="0.24, 0.24, 0.15" />
-        <hair_color_gradient_point point="0.40, 0.13, 0.03" />
-        <hair_color_gradient_point point="0.16, 0.16, 0.10" />
-        <hair_color_gradient_point point="0.15, 0.10, 0.07" />
-        <hair_color_gradient_point point="0.14, 0.14, 0.09" />
-        <hair_color_gradient_point point="0.12, 0.08, 0.06" />
-        <hair_color_gradient_point point="0.11, 0.11, 0.08" />
-        <hair_color_gradient_point point="0.10, 0.07, 0.05" />
-        <hair_color_gradient_point point="0.09, 0.09, 0.07" />
-        <hair_color_gradient_point point="0.08, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.05, 0.06, 0.06" />
-        <hair_color_gradient_point point="0.03, 0.03, 0.04" />
-        <hair_color_gradient_point point="0.04, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.01, 0.015, 0.035" />
+        <hair_color_gradient_point point="0.04, 0.035, 0.03" />
+        <hair_color_gradient_point point="0.035, 0.03, 0.025" />
+        <hair_color_gradient_point point="0.03, 0.025, 0.02" />
+        <hair_color_gradient_point point="0.025, 0.02, 0.018" />
       </hair_color_gradient_points>
       <skin_color_gradient_points>
         <skin_color_gradient_point point="1.0, 1.0, 1.0" />
@@ -1211,24 +1120,6 @@
         <skin_color_gradient_point point="0.76, 0.64, 0.60" />
         <skin_color_gradient_point point="0.85, 0.82, 0.65" />
         <skin_color_gradient_point point="0.76, 0.70, 0.55" />
-        <skin_color_gradient_point point="0.68, 0.60, 0.45" />
-        <skin_color_gradient_point point="0.60, 0.52, 0.36" />
-        <skin_color_gradient_point point="0.82, 0.70, 0.45" />
-        <skin_color_gradient_point point="0.71, 0.59, 0.38" />
-        <skin_color_gradient_point point="0.60, 0.48, 0.29" />
-        <skin_color_gradient_point point="0.49, 0.37, 0.22" />
-        <skin_color_gradient_point point="0.50, 0.40, 0.30" />
-        <skin_color_gradient_point point="0.43, 0.33, 0.25" />
-        <skin_color_gradient_point point="0.36, 0.27, 0.20" />
-        <skin_color_gradient_point point="0.33, 0.25, 0.17" />
-        <skin_color_gradient_point point="0.35, 0.25, 0.21" />
-        <skin_color_gradient_point point="0.30, 0.21, 0.18" />
-        <skin_color_gradient_point point="0.25, 0.15, 0.12" />
-        <skin_color_gradient_point point="0.20, 0.12, 0.09" />
-        <skin_color_gradient_point point="0.22, 0.20, 0.16" />
-        <skin_color_gradient_point point="0.17, 0.17, 0.15" />
-        <skin_color_gradient_point point="0.13, 0.11, 0.09" />
-        <skin_color_gradient_point point="0.09, 0.08, 0.04" />
       </skin_color_gradient_points>
       <eye_color_gradient_points>
         <!--Bright Blue-->
@@ -1785,30 +1676,10 @@
         <tattoo_color_gradient_point point="0.05, 0.05, 0.05" />
       </tattoo_color_gradient_points>
       <hair_color_gradient_points>
-        <hair_color_gradient_point point="0.89, 0.89, 0.69" />
-        <hair_color_gradient_point point="0.92, 0.71, 0.43" />
-        <hair_color_gradient_point point="0.68, 0.65, 0.45" />
-        <hair_color_gradient_point point="0.75, 0.53, 0.29" />
-        <hair_color_gradient_point point="0.55, 0.54, 0.35" />
-        <hair_color_gradient_point point="0.63, 0.40, 0.20" />
-        <hair_color_gradient_point point="0.40, 0.40, 0.25" />
-        <hair_color_gradient_point point="0.57, 0.27, 0.12" />
-        <hair_color_gradient_point point="0.29, 0.29, 0.18" />
-        <hair_color_gradient_point point="0.47, 0.17, 0.07" />
-        <hair_color_gradient_point point="0.24, 0.24, 0.15" />
-        <hair_color_gradient_point point="0.40, 0.13, 0.03" />
-        <hair_color_gradient_point point="0.16, 0.16, 0.10" />
-        <hair_color_gradient_point point="0.15, 0.10, 0.07" />
-        <hair_color_gradient_point point="0.14, 0.14, 0.09" />
-        <hair_color_gradient_point point="0.12, 0.08, 0.06" />
-        <hair_color_gradient_point point="0.11, 0.11, 0.08" />
-        <hair_color_gradient_point point="0.10, 0.07, 0.05" />
-        <hair_color_gradient_point point="0.09, 0.09, 0.07" />
-        <hair_color_gradient_point point="0.08, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.05, 0.06, 0.06" />
-        <hair_color_gradient_point point="0.03, 0.03, 0.04" />
-        <hair_color_gradient_point point="0.04, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.01, 0.015, 0.035" />
+        <hair_color_gradient_point point="0.04, 0.035, 0.03" />
+        <hair_color_gradient_point point="0.035, 0.03, 0.025" />
+        <hair_color_gradient_point point="0.03, 0.025, 0.02" />
+        <hair_color_gradient_point point="0.025, 0.02, 0.018" />
       </hair_color_gradient_points>
       <skin_color_gradient_points>
         <skin_color_gradient_point point="1.0, 1.0, 1.0" />
@@ -1817,24 +1688,6 @@
         <skin_color_gradient_point point="0.76, 0.64, 0.60" />
         <skin_color_gradient_point point="0.85, 0.82, 0.65" />
         <skin_color_gradient_point point="0.76, 0.70, 0.55" />
-        <skin_color_gradient_point point="0.68, 0.60, 0.45" />
-        <skin_color_gradient_point point="0.60, 0.52, 0.36" />
-        <skin_color_gradient_point point="0.82, 0.70, 0.45" />
-        <skin_color_gradient_point point="0.71, 0.59, 0.38" />
-        <skin_color_gradient_point point="0.60, 0.48, 0.29" />
-        <skin_color_gradient_point point="0.49, 0.37, 0.22" />
-        <skin_color_gradient_point point="0.50, 0.40, 0.30" />
-        <skin_color_gradient_point point="0.43, 0.33, 0.25" />
-        <skin_color_gradient_point point="0.36, 0.27, 0.20" />
-        <skin_color_gradient_point point="0.33, 0.25, 0.17" />
-        <skin_color_gradient_point point="0.35, 0.25, 0.21" />
-        <skin_color_gradient_point point="0.30, 0.21, 0.18" />
-        <skin_color_gradient_point point="0.25, 0.15, 0.12" />
-        <skin_color_gradient_point point="0.20, 0.12, 0.09" />
-        <skin_color_gradient_point point="0.22, 0.20, 0.16" />
-        <skin_color_gradient_point point="0.17, 0.17, 0.15" />
-        <skin_color_gradient_point point="0.13, 0.11, 0.09" />
-        <skin_color_gradient_point point="0.09, 0.08, 0.04" />
       </skin_color_gradient_points>
       <eye_color_gradient_points>
         <!--Bright Blue-->
@@ -2281,30 +2134,10 @@
         <tattoo_color_gradient_point point="0.05, 0.05, 0.05" />
       </tattoo_color_gradient_points>
       <hair_color_gradient_points>
-        <hair_color_gradient_point point="0.89, 0.89, 0.69" />
-        <hair_color_gradient_point point="0.92, 0.71, 0.43" />
-        <hair_color_gradient_point point="0.68, 0.65, 0.45" />
-        <hair_color_gradient_point point="0.75, 0.53, 0.29" />
-        <hair_color_gradient_point point="0.55, 0.54, 0.35" />
-        <hair_color_gradient_point point="0.63, 0.40, 0.20" />
-        <hair_color_gradient_point point="0.40, 0.40, 0.25" />
-        <hair_color_gradient_point point="0.57, 0.27, 0.12" />
-        <hair_color_gradient_point point="0.29, 0.29, 0.18" />
-        <hair_color_gradient_point point="0.47, 0.17, 0.07" />
-        <hair_color_gradient_point point="0.24, 0.24, 0.15" />
-        <hair_color_gradient_point point="0.40, 0.13, 0.03" />
-        <hair_color_gradient_point point="0.16, 0.16, 0.10" />
-        <hair_color_gradient_point point="0.15, 0.10, 0.07" />
-        <hair_color_gradient_point point="0.14, 0.14, 0.09" />
-        <hair_color_gradient_point point="0.12, 0.08, 0.06" />
-        <hair_color_gradient_point point="0.11, 0.11, 0.08" />
-        <hair_color_gradient_point point="0.10, 0.07, 0.05" />
-        <hair_color_gradient_point point="0.09, 0.09, 0.07" />
-        <hair_color_gradient_point point="0.08, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.05, 0.06, 0.06" />
-        <hair_color_gradient_point point="0.03, 0.03, 0.04" />
-        <hair_color_gradient_point point="0.04, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.01, 0.015, 0.035" />
+        <hair_color_gradient_point point="0.04, 0.035, 0.03" />
+        <hair_color_gradient_point point="0.035, 0.03, 0.025" />
+        <hair_color_gradient_point point="0.03, 0.025, 0.02" />
+        <hair_color_gradient_point point="0.025, 0.02, 0.018" />
       </hair_color_gradient_points>
       <skin_color_gradient_points>
         <skin_color_gradient_point point="1.0, 1.0, 1.0" />
@@ -2313,24 +2146,6 @@
         <skin_color_gradient_point point="0.76, 0.64, 0.60" />
         <skin_color_gradient_point point="0.85, 0.82, 0.65" />
         <skin_color_gradient_point point="0.76, 0.70, 0.55" />
-        <skin_color_gradient_point point="0.68, 0.60, 0.45" />
-        <skin_color_gradient_point point="0.60, 0.52, 0.36" />
-        <skin_color_gradient_point point="0.82, 0.70, 0.45" />
-        <skin_color_gradient_point point="0.71, 0.59, 0.38" />
-        <skin_color_gradient_point point="0.60, 0.48, 0.29" />
-        <skin_color_gradient_point point="0.49, 0.37, 0.22" />
-        <skin_color_gradient_point point="0.50, 0.40, 0.30" />
-        <skin_color_gradient_point point="0.43, 0.33, 0.25" />
-        <skin_color_gradient_point point="0.36, 0.27, 0.20" />
-        <skin_color_gradient_point point="0.33, 0.25, 0.17" />
-        <skin_color_gradient_point point="0.35, 0.25, 0.21" />
-        <skin_color_gradient_point point="0.30, 0.21, 0.18" />
-        <skin_color_gradient_point point="0.25, 0.15, 0.12" />
-        <skin_color_gradient_point point="0.20, 0.12, 0.09" />
-        <skin_color_gradient_point point="0.22, 0.20, 0.16" />
-        <skin_color_gradient_point point="0.17, 0.17, 0.15" />
-        <skin_color_gradient_point point="0.13, 0.11, 0.09" />
-        <skin_color_gradient_point point="0.09, 0.08, 0.04" />
       </skin_color_gradient_points>
       <eye_color_gradient_points>
         <!--Bright Blue-->
@@ -2927,30 +2742,10 @@
         <tattoo_color_gradient_point point="0.05, 0.05, 0.05" />
       </tattoo_color_gradient_points>
       <hair_color_gradient_points>
-        <hair_color_gradient_point point="0.89, 0.89, 0.69" />
-        <hair_color_gradient_point point="0.92, 0.71, 0.43" />
-        <hair_color_gradient_point point="0.68, 0.65, 0.45" />
-        <hair_color_gradient_point point="0.75, 0.53, 0.29" />
-        <hair_color_gradient_point point="0.55, 0.54, 0.35" />
-        <hair_color_gradient_point point="0.63, 0.40, 0.20" />
-        <hair_color_gradient_point point="0.40, 0.40, 0.25" />
-        <hair_color_gradient_point point="0.57, 0.27, 0.12" />
-        <hair_color_gradient_point point="0.29, 0.29, 0.18" />
-        <hair_color_gradient_point point="0.47, 0.17, 0.07" />
-        <hair_color_gradient_point point="0.24, 0.24, 0.15" />
-        <hair_color_gradient_point point="0.40, 0.13, 0.03" />
-        <hair_color_gradient_point point="0.16, 0.16, 0.10" />
-        <hair_color_gradient_point point="0.15, 0.10, 0.07" />
-        <hair_color_gradient_point point="0.14, 0.14, 0.09" />
-        <hair_color_gradient_point point="0.12, 0.08, 0.06" />
-        <hair_color_gradient_point point="0.11, 0.11, 0.08" />
-        <hair_color_gradient_point point="0.10, 0.07, 0.05" />
-        <hair_color_gradient_point point="0.09, 0.09, 0.07" />
-        <hair_color_gradient_point point="0.08, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.05, 0.06, 0.06" />
-        <hair_color_gradient_point point="0.03, 0.03, 0.04" />
-        <hair_color_gradient_point point="0.04, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.01, 0.015, 0.035" />
+        <hair_color_gradient_point point="0.04, 0.035, 0.03" />
+        <hair_color_gradient_point point="0.035, 0.03, 0.025" />
+        <hair_color_gradient_point point="0.03, 0.025, 0.02" />
+        <hair_color_gradient_point point="0.025, 0.02, 0.018" />
       </hair_color_gradient_points>
       <skin_color_gradient_points>
         <skin_color_gradient_point point="1.0, 1.0, 1.0" />
@@ -2959,24 +2754,6 @@
         <skin_color_gradient_point point="0.76, 0.64, 0.60" />
         <skin_color_gradient_point point="0.85, 0.82, 0.65" />
         <skin_color_gradient_point point="0.76, 0.70, 0.55" />
-        <skin_color_gradient_point point="0.68, 0.60, 0.45" />
-        <skin_color_gradient_point point="0.60, 0.52, 0.36" />
-        <skin_color_gradient_point point="0.82, 0.70, 0.45" />
-        <skin_color_gradient_point point="0.71, 0.59, 0.38" />
-        <skin_color_gradient_point point="0.60, 0.48, 0.29" />
-        <skin_color_gradient_point point="0.49, 0.37, 0.22" />
-        <skin_color_gradient_point point="0.50, 0.40, 0.30" />
-        <skin_color_gradient_point point="0.43, 0.33, 0.25" />
-        <skin_color_gradient_point point="0.36, 0.27, 0.20" />
-        <skin_color_gradient_point point="0.33, 0.25, 0.17" />
-        <skin_color_gradient_point point="0.35, 0.25, 0.21" />
-        <skin_color_gradient_point point="0.30, 0.21, 0.18" />
-        <skin_color_gradient_point point="0.25, 0.15, 0.12" />
-        <skin_color_gradient_point point="0.20, 0.12, 0.09" />
-        <skin_color_gradient_point point="0.22, 0.20, 0.16" />
-        <skin_color_gradient_point point="0.17, 0.17, 0.15" />
-        <skin_color_gradient_point point="0.13, 0.11, 0.09" />
-        <skin_color_gradient_point point="0.09, 0.08, 0.04" />
       </skin_color_gradient_points>
       <eye_color_gradient_points>
         <!--Bright Blue-->
@@ -3420,30 +3197,10 @@
         <tattoo_color_gradient_point point="0.05, 0.05, 0.05" />
       </tattoo_color_gradient_points>
       <hair_color_gradient_points>
-        <hair_color_gradient_point point="0.89, 0.89, 0.69" />
-        <hair_color_gradient_point point="0.92, 0.71, 0.43" />
-        <hair_color_gradient_point point="0.68, 0.65, 0.45" />
-        <hair_color_gradient_point point="0.75, 0.53, 0.29" />
-        <hair_color_gradient_point point="0.55, 0.54, 0.35" />
-        <hair_color_gradient_point point="0.63, 0.40, 0.20" />
-        <hair_color_gradient_point point="0.40, 0.40, 0.25" />
-        <hair_color_gradient_point point="0.57, 0.27, 0.12" />
-        <hair_color_gradient_point point="0.29, 0.29, 0.18" />
-        <hair_color_gradient_point point="0.47, 0.17, 0.07" />
-        <hair_color_gradient_point point="0.24, 0.24, 0.15" />
-        <hair_color_gradient_point point="0.40, 0.13, 0.03" />
-        <hair_color_gradient_point point="0.16, 0.16, 0.10" />
-        <hair_color_gradient_point point="0.15, 0.10, 0.07" />
-        <hair_color_gradient_point point="0.14, 0.14, 0.09" />
-        <hair_color_gradient_point point="0.12, 0.08, 0.06" />
-        <hair_color_gradient_point point="0.11, 0.11, 0.08" />
-        <hair_color_gradient_point point="0.10, 0.07, 0.05" />
-        <hair_color_gradient_point point="0.09, 0.09, 0.07" />
-        <hair_color_gradient_point point="0.08, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.05, 0.06, 0.06" />
-        <hair_color_gradient_point point="0.03, 0.03, 0.04" />
-        <hair_color_gradient_point point="0.04, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.01, 0.015, 0.035" />
+        <hair_color_gradient_point point="0.04, 0.035, 0.03" />
+        <hair_color_gradient_point point="0.035, 0.03, 0.025" />
+        <hair_color_gradient_point point="0.03, 0.025, 0.02" />
+        <hair_color_gradient_point point="0.025, 0.02, 0.018" />
       </hair_color_gradient_points>
       <skin_color_gradient_points>
         <skin_color_gradient_point point="1.0, 1.0, 1.0" />
@@ -3452,24 +3209,6 @@
         <skin_color_gradient_point point="0.76, 0.64, 0.60" />
         <skin_color_gradient_point point="0.85, 0.82, 0.65" />
         <skin_color_gradient_point point="0.76, 0.70, 0.55" />
-        <skin_color_gradient_point point="0.68, 0.60, 0.45" />
-        <skin_color_gradient_point point="0.60, 0.52, 0.36" />
-        <skin_color_gradient_point point="0.82, 0.70, 0.45" />
-        <skin_color_gradient_point point="0.71, 0.59, 0.38" />
-        <skin_color_gradient_point point="0.60, 0.48, 0.29" />
-        <skin_color_gradient_point point="0.49, 0.37, 0.22" />
-        <skin_color_gradient_point point="0.50, 0.40, 0.30" />
-        <skin_color_gradient_point point="0.43, 0.33, 0.25" />
-        <skin_color_gradient_point point="0.36, 0.27, 0.20" />
-        <skin_color_gradient_point point="0.33, 0.25, 0.17" />
-        <skin_color_gradient_point point="0.35, 0.25, 0.21" />
-        <skin_color_gradient_point point="0.30, 0.21, 0.18" />
-        <skin_color_gradient_point point="0.25, 0.15, 0.12" />
-        <skin_color_gradient_point point="0.20, 0.12, 0.09" />
-        <skin_color_gradient_point point="0.22, 0.20, 0.16" />
-        <skin_color_gradient_point point="0.17, 0.17, 0.15" />
-        <skin_color_gradient_point point="0.13, 0.11, 0.09" />
-        <skin_color_gradient_point point="0.09, 0.08, 0.04" />
       </skin_color_gradient_points>
       <eye_color_gradient_points>
         <!--Bright Blue-->
@@ -4014,30 +3753,10 @@
         <tattoo_color_gradient_point point="0.05, 0.05, 0.05" />
       </tattoo_color_gradient_points>
       <hair_color_gradient_points>
-        <hair_color_gradient_point point="0.89, 0.89, 0.69" />
-        <hair_color_gradient_point point="0.92, 0.71, 0.43" />
-        <hair_color_gradient_point point="0.68, 0.65, 0.45" />
-        <hair_color_gradient_point point="0.75, 0.53, 0.29" />
-        <hair_color_gradient_point point="0.55, 0.54, 0.35" />
-        <hair_color_gradient_point point="0.63, 0.40, 0.20" />
-        <hair_color_gradient_point point="0.40, 0.40, 0.25" />
-        <hair_color_gradient_point point="0.57, 0.27, 0.12" />
-        <hair_color_gradient_point point="0.29, 0.29, 0.18" />
-        <hair_color_gradient_point point="0.47, 0.17, 0.07" />
-        <hair_color_gradient_point point="0.24, 0.24, 0.15" />
-        <hair_color_gradient_point point="0.40, 0.13, 0.03" />
-        <hair_color_gradient_point point="0.16, 0.16, 0.10" />
-        <hair_color_gradient_point point="0.15, 0.10, 0.07" />
-        <hair_color_gradient_point point="0.14, 0.14, 0.09" />
-        <hair_color_gradient_point point="0.12, 0.08, 0.06" />
-        <hair_color_gradient_point point="0.11, 0.11, 0.08" />
-        <hair_color_gradient_point point="0.10, 0.07, 0.05" />
-        <hair_color_gradient_point point="0.09, 0.09, 0.07" />
-        <hair_color_gradient_point point="0.08, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.05, 0.06, 0.06" />
-        <hair_color_gradient_point point="0.03, 0.03, 0.04" />
-        <hair_color_gradient_point point="0.04, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.01, 0.015, 0.035" />
+        <hair_color_gradient_point point="0.04, 0.035, 0.03" />
+        <hair_color_gradient_point point="0.035, 0.03, 0.025" />
+        <hair_color_gradient_point point="0.03, 0.025, 0.02" />
+        <hair_color_gradient_point point="0.025, 0.02, 0.018" />
       </hair_color_gradient_points>
       <skin_color_gradient_points>
         <skin_color_gradient_point point="1.0, 1.0, 1.0" />
@@ -4046,24 +3765,6 @@
         <skin_color_gradient_point point="0.76, 0.64, 0.60" />
         <skin_color_gradient_point point="0.85, 0.82, 0.65" />
         <skin_color_gradient_point point="0.76, 0.70, 0.55" />
-        <skin_color_gradient_point point="0.68, 0.60, 0.45" />
-        <skin_color_gradient_point point="0.60, 0.52, 0.36" />
-        <skin_color_gradient_point point="0.82, 0.70, 0.45" />
-        <skin_color_gradient_point point="0.71, 0.59, 0.38" />
-        <skin_color_gradient_point point="0.60, 0.48, 0.29" />
-        <skin_color_gradient_point point="0.49, 0.37, 0.22" />
-        <skin_color_gradient_point point="0.50, 0.40, 0.30" />
-        <skin_color_gradient_point point="0.43, 0.33, 0.25" />
-        <skin_color_gradient_point point="0.36, 0.27, 0.20" />
-        <skin_color_gradient_point point="0.33, 0.25, 0.17" />
-        <skin_color_gradient_point point="0.35, 0.25, 0.21" />
-        <skin_color_gradient_point point="0.30, 0.21, 0.18" />
-        <skin_color_gradient_point point="0.25, 0.15, 0.12" />
-        <skin_color_gradient_point point="0.20, 0.12, 0.09" />
-        <skin_color_gradient_point point="0.22, 0.20, 0.16" />
-        <skin_color_gradient_point point="0.17, 0.17, 0.15" />
-        <skin_color_gradient_point point="0.13, 0.11, 0.09" />
-        <skin_color_gradient_point point="0.09, 0.08, 0.04" />
       </skin_color_gradient_points>
       <eye_color_gradient_points>
         <!--Bright Blue-->
@@ -4480,30 +4181,10 @@
         <tattoo_color_gradient_point point="0.05, 0.05, 0.05" />
       </tattoo_color_gradient_points>
       <hair_color_gradient_points>
-        <hair_color_gradient_point point="0.89, 0.89, 0.69" />
-        <hair_color_gradient_point point="0.92, 0.71, 0.43" />
-        <hair_color_gradient_point point="0.68, 0.65, 0.45" />
-        <hair_color_gradient_point point="0.75, 0.53, 0.29" />
-        <hair_color_gradient_point point="0.55, 0.54, 0.35" />
-        <hair_color_gradient_point point="0.63, 0.40, 0.20" />
-        <hair_color_gradient_point point="0.40, 0.40, 0.25" />
-        <hair_color_gradient_point point="0.57, 0.27, 0.12" />
-        <hair_color_gradient_point point="0.29, 0.29, 0.18" />
-        <hair_color_gradient_point point="0.47, 0.17, 0.07" />
-        <hair_color_gradient_point point="0.24, 0.24, 0.15" />
-        <hair_color_gradient_point point="0.40, 0.13, 0.03" />
-        <hair_color_gradient_point point="0.16, 0.16, 0.10" />
-        <hair_color_gradient_point point="0.15, 0.10, 0.07" />
-        <hair_color_gradient_point point="0.14, 0.14, 0.09" />
-        <hair_color_gradient_point point="0.12, 0.08, 0.06" />
-        <hair_color_gradient_point point="0.11, 0.11, 0.08" />
-        <hair_color_gradient_point point="0.10, 0.07, 0.05" />
-        <hair_color_gradient_point point="0.09, 0.09, 0.07" />
-        <hair_color_gradient_point point="0.08, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.05, 0.06, 0.06" />
-        <hair_color_gradient_point point="0.03, 0.03, 0.04" />
-        <hair_color_gradient_point point="0.04, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.01, 0.015, 0.035" />
+        <hair_color_gradient_point point="0.04, 0.035, 0.03" />
+        <hair_color_gradient_point point="0.035, 0.03, 0.025" />
+        <hair_color_gradient_point point="0.03, 0.025, 0.02" />
+        <hair_color_gradient_point point="0.025, 0.02, 0.018" />
       </hair_color_gradient_points>
       <skin_color_gradient_points>
         <skin_color_gradient_point point="1.0, 1.0, 1.0" />
@@ -4512,24 +4193,6 @@
         <skin_color_gradient_point point="0.76, 0.64, 0.60" />
         <skin_color_gradient_point point="0.85, 0.82, 0.65" />
         <skin_color_gradient_point point="0.76, 0.70, 0.55" />
-        <skin_color_gradient_point point="0.68, 0.60, 0.45" />
-        <skin_color_gradient_point point="0.60, 0.52, 0.36" />
-        <skin_color_gradient_point point="0.82, 0.70, 0.45" />
-        <skin_color_gradient_point point="0.71, 0.59, 0.38" />
-        <skin_color_gradient_point point="0.60, 0.48, 0.29" />
-        <skin_color_gradient_point point="0.49, 0.37, 0.22" />
-        <skin_color_gradient_point point="0.50, 0.40, 0.30" />
-        <skin_color_gradient_point point="0.43, 0.33, 0.25" />
-        <skin_color_gradient_point point="0.36, 0.27, 0.20" />
-        <skin_color_gradient_point point="0.33, 0.25, 0.17" />
-        <skin_color_gradient_point point="0.35, 0.25, 0.21" />
-        <skin_color_gradient_point point="0.30, 0.21, 0.18" />
-        <skin_color_gradient_point point="0.25, 0.15, 0.12" />
-        <skin_color_gradient_point point="0.20, 0.12, 0.09" />
-        <skin_color_gradient_point point="0.22, 0.20, 0.16" />
-        <skin_color_gradient_point point="0.17, 0.17, 0.15" />
-        <skin_color_gradient_point point="0.13, 0.11, 0.09" />
-        <skin_color_gradient_point point="0.09, 0.08, 0.04" />
       </skin_color_gradient_points>
       <eye_color_gradient_points>
         <!--Bright Blue-->
@@ -4985,30 +4648,10 @@
         <tattoo_color_gradient_point point="0.05, 0.05, 0.05" />
       </tattoo_color_gradient_points>
       <hair_color_gradient_points>
-        <hair_color_gradient_point point="0.89, 0.89, 0.69" />
-        <hair_color_gradient_point point="0.92, 0.71, 0.43" />
-        <hair_color_gradient_point point="0.68, 0.65, 0.45" />
-        <hair_color_gradient_point point="0.75, 0.53, 0.29" />
-        <hair_color_gradient_point point="0.55, 0.54, 0.35" />
-        <hair_color_gradient_point point="0.63, 0.40, 0.20" />
-        <hair_color_gradient_point point="0.40, 0.40, 0.25" />
-        <hair_color_gradient_point point="0.57, 0.27, 0.12" />
-        <hair_color_gradient_point point="0.29, 0.29, 0.18" />
-        <hair_color_gradient_point point="0.47, 0.17, 0.07" />
-        <hair_color_gradient_point point="0.24, 0.24, 0.15" />
-        <hair_color_gradient_point point="0.40, 0.13, 0.03" />
-        <hair_color_gradient_point point="0.16, 0.16, 0.10" />
-        <hair_color_gradient_point point="0.15, 0.10, 0.07" />
-        <hair_color_gradient_point point="0.14, 0.14, 0.09" />
-        <hair_color_gradient_point point="0.12, 0.08, 0.06" />
-        <hair_color_gradient_point point="0.11, 0.11, 0.08" />
-        <hair_color_gradient_point point="0.10, 0.07, 0.05" />
-        <hair_color_gradient_point point="0.09, 0.09, 0.07" />
-        <hair_color_gradient_point point="0.08, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.05, 0.06, 0.06" />
-        <hair_color_gradient_point point="0.03, 0.03, 0.04" />
-        <hair_color_gradient_point point="0.04, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.01, 0.015, 0.035" />
+        <hair_color_gradient_point point="0.04, 0.035, 0.03" />
+        <hair_color_gradient_point point="0.035, 0.03, 0.025" />
+        <hair_color_gradient_point point="0.03, 0.025, 0.02" />
+        <hair_color_gradient_point point="0.025, 0.02, 0.018" />
       </hair_color_gradient_points>
       <skin_color_gradient_points>
         <skin_color_gradient_point point="1.0, 1.0, 1.0" />
@@ -5017,24 +4660,6 @@
         <skin_color_gradient_point point="0.76, 0.64, 0.60" />
         <skin_color_gradient_point point="0.85, 0.82, 0.65" />
         <skin_color_gradient_point point="0.76, 0.70, 0.55" />
-        <skin_color_gradient_point point="0.68, 0.60, 0.45" />
-        <skin_color_gradient_point point="0.60, 0.52, 0.36" />
-        <skin_color_gradient_point point="0.82, 0.70, 0.45" />
-        <skin_color_gradient_point point="0.71, 0.59, 0.38" />
-        <skin_color_gradient_point point="0.60, 0.48, 0.29" />
-        <skin_color_gradient_point point="0.49, 0.37, 0.22" />
-        <skin_color_gradient_point point="0.50, 0.40, 0.30" />
-        <skin_color_gradient_point point="0.43, 0.33, 0.25" />
-        <skin_color_gradient_point point="0.36, 0.27, 0.20" />
-        <skin_color_gradient_point point="0.33, 0.25, 0.17" />
-        <skin_color_gradient_point point="0.35, 0.25, 0.21" />
-        <skin_color_gradient_point point="0.30, 0.21, 0.18" />
-        <skin_color_gradient_point point="0.25, 0.15, 0.12" />
-        <skin_color_gradient_point point="0.20, 0.12, 0.09" />
-        <skin_color_gradient_point point="0.22, 0.20, 0.16" />
-        <skin_color_gradient_point point="0.17, 0.17, 0.15" />
-        <skin_color_gradient_point point="0.13, 0.11, 0.09" />
-        <skin_color_gradient_point point="0.09, 0.08, 0.04" />
       </skin_color_gradient_points>
       <eye_color_gradient_points>
         <!--Bright Blue-->
@@ -5409,30 +5034,10 @@
         <tattoo_color_gradient_point point="0.05, 0.05, 0.05" />
       </tattoo_color_gradient_points>
       <hair_color_gradient_points>
-        <hair_color_gradient_point point="0.89, 0.89, 0.69" />
-        <hair_color_gradient_point point="0.92, 0.71, 0.43" />
-        <hair_color_gradient_point point="0.68, 0.65, 0.45" />
-        <hair_color_gradient_point point="0.75, 0.53, 0.29" />
-        <hair_color_gradient_point point="0.55, 0.54, 0.35" />
-        <hair_color_gradient_point point="0.63, 0.40, 0.20" />
-        <hair_color_gradient_point point="0.40, 0.40, 0.25" />
-        <hair_color_gradient_point point="0.57, 0.27, 0.12" />
-        <hair_color_gradient_point point="0.29, 0.29, 0.18" />
-        <hair_color_gradient_point point="0.47, 0.17, 0.07" />
-        <hair_color_gradient_point point="0.24, 0.24, 0.15" />
-        <hair_color_gradient_point point="0.40, 0.13, 0.03" />
-        <hair_color_gradient_point point="0.16, 0.16, 0.10" />
-        <hair_color_gradient_point point="0.15, 0.10, 0.07" />
-        <hair_color_gradient_point point="0.14, 0.14, 0.09" />
-        <hair_color_gradient_point point="0.12, 0.08, 0.06" />
-        <hair_color_gradient_point point="0.11, 0.11, 0.08" />
-        <hair_color_gradient_point point="0.10, 0.07, 0.05" />
-        <hair_color_gradient_point point="0.09, 0.09, 0.07" />
-        <hair_color_gradient_point point="0.08, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.05, 0.06, 0.06" />
-        <hair_color_gradient_point point="0.03, 0.03, 0.04" />
-        <hair_color_gradient_point point="0.04, 0.05, 0.05" />
-        <hair_color_gradient_point point="0.01, 0.015, 0.035" />
+        <hair_color_gradient_point point="0.04, 0.035, 0.03" />
+        <hair_color_gradient_point point="0.035, 0.03, 0.025" />
+        <hair_color_gradient_point point="0.03, 0.025, 0.02" />
+        <hair_color_gradient_point point="0.025, 0.02, 0.018" />
       </hair_color_gradient_points>
       <skin_color_gradient_points>
         <skin_color_gradient_point point="1.0, 1.0, 1.0" />
@@ -5441,24 +5046,6 @@
         <skin_color_gradient_point point="0.76, 0.64, 0.60" />
         <skin_color_gradient_point point="0.85, 0.82, 0.65" />
         <skin_color_gradient_point point="0.76, 0.70, 0.55" />
-        <skin_color_gradient_point point="0.68, 0.60, 0.45" />
-        <skin_color_gradient_point point="0.60, 0.52, 0.36" />
-        <skin_color_gradient_point point="0.82, 0.70, 0.45" />
-        <skin_color_gradient_point point="0.71, 0.59, 0.38" />
-        <skin_color_gradient_point point="0.60, 0.48, 0.29" />
-        <skin_color_gradient_point point="0.49, 0.37, 0.22" />
-        <skin_color_gradient_point point="0.50, 0.40, 0.30" />
-        <skin_color_gradient_point point="0.43, 0.33, 0.25" />
-        <skin_color_gradient_point point="0.36, 0.27, 0.20" />
-        <skin_color_gradient_point point="0.33, 0.25, 0.17" />
-        <skin_color_gradient_point point="0.35, 0.25, 0.21" />
-        <skin_color_gradient_point point="0.30, 0.21, 0.18" />
-        <skin_color_gradient_point point="0.25, 0.15, 0.12" />
-        <skin_color_gradient_point point="0.20, 0.12, 0.09" />
-        <skin_color_gradient_point point="0.22, 0.20, 0.16" />
-        <skin_color_gradient_point point="0.17, 0.17, 0.15" />
-        <skin_color_gradient_point point="0.13, 0.11, 0.09" />
-        <skin_color_gradient_point point="0.09, 0.08, 0.04" />
       </skin_color_gradient_points>
       <eye_color_gradient_points>
         <!--Bright Blue-->
