@@ -17,3 +17,6 @@
 # !YiGuFaceFemale/
 # !YiGuFaceFemale/**
 
+!README.md
+!attachments/
+!attachments/**
