@@ -1,0 +1,1867 @@
+<?xml version='1.0' encoding='utf-8'?>
+<NPCCharacters>
+  <NPCCharacter id="lord_1_obata_1" name="{=asA0b5mz}Obata Tae" age="26" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="26" weight="0.1682" build="0.777" key="0000BC0FC08830046B73546496585B8777C8866295A09FB6846908688AC40807008C3603080150030000000000000000000000000000000000000000791C30C0" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_obata_3" name="{=k7pTFu2E}Obata Yumi" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="48" weight="0.1651" build="0.1674" key="0005C0001314300E1E899541B074635694C7868458AD6842CABB4BB38795877800B326030B45525300000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_obata_5" name="{=cy3gpggj}Obata Yuki" age="26" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="26" weight="1" build="0" key="0005C401511430045E899541B074665694C7889658893813CCBB8B948795877801A0F6140A55512200000000000000000000000000000000000000007D642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="19" />
+      <Trait id="Manager" value="16" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="15" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_obata_9" name="{=zVUgQ4Mr}Obata Tose" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.1651" build="0.1674" key="000BC80CD21430062E899651B375565694F786A558AC7815928B9B758795877300B326030B45544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="12" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="11" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_obata_11" name="{=9IFe41L8}Obata Mina" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0.1651" build="0.1674" key="0000CC000E4430071E8994586366689794F788849B74983E778BC5B4879A877700B326030B75544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="16" />
+      <Trait id="Manager" value="14" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="17" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_yura_1" name="{=Q4wQhlze}Yura Myouin-ni" age="54" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="54" weight="0.1651" build="0.0301" key="002DD00B510000012E8994586366689794F788D59B6CA80C778BC5B4879A877701B026140B75524000000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="19" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_yura_5" name="{=ZiQq8JDT}Yura Mayu" age="15" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="15" weight="0.1651" build="0.1998" key="0019D40FC0FC300A5E8994586368879494D589462B9AB8297DEBBAB4879A877701B326140B4752400000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="11" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_yura_6" name="{=uog9xjJ7}Yura Sumi" age="11" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="11" weight="0.1651" build="0.1998" key="0000D8000044300AAE8994586368699494D589462B9AB8197DEBBAB4879A877701B326140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="19" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="15" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_hojo_1" name="{=RSvvwQuG}Hojo Hosho-in" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1651" build="0.0068" key="000CDC054014300CCE8994586367699494D589462B9DB8017CCBBDB4879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="14" />
+      <Trait id="Manager" value="13" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="20" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_hojo_3" name="{=w54S5I3N}Hojo Zuikei-in" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="48" weight="0.1651" build="0.0068" key="0005E00A1314300D2E8994586364669494F589463B995F1B79ABD6E4879A877701B026140B4752200000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="12" />
+      <Trait id="Manager" value="16" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_hojo_6" name="{=iUvP6aFv}Hojo Hisa" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.1651" build="0.1674" key="000CE4054014300F7E899541B076935694C787558862B828CADB77C48795877800B326030B45525300000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="10" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="19" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_hojo_8" name="{=Ihhdccnz}Hojo Fuku" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.1651" build="0.1674" key="002DE80E50003010FA899541B076974683E78584884B9812C9FBC4D48795977A00B326030B47925100000000000000000000000000000000000000007D7C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="15" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="17" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_hojo_10" name="{=XT3whBO1}Hojo Kougen-in" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0.1651" build="0.0068" key="000CEC0A801400070E8994586367879494D587983BBCA6367C9BB8E6879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="15" />
+      <Trait id="Manager" value="19" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="17" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_matsuda_1" name="{=Koe4GEO4}Matsuda Tani" age="34" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="34" weight="0.2346" build="0.2623" key="0005F00880002010697666C7B247AAC870D788472C58D8568156F8558C08633B01B446130B65A21100000000000000000000000000000000000000007D6C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="19" />
+      <Trait id="Manager" value="13" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_matsuda_5" name="{=ViSD5Bbn}Matsuda Jifuku-in" age="66" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="66" weight="0.5" build="0.5" key="0000F40013B43006128317117111116680F68735607DA402BDF6C6307C530016FD1906130AB061130044000085F030350000000000001A770000000041441001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="14" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="18" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_matsuda_7" name="{=zDjE64TE}Matsuda Izumi" age="26" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="26" weight="0.017" build="0.3627" key="0011F80CD2B4200405767D5335CA917070EF7A9E3BAA39759484DF038BCE05070135061303049342000000006A00003900000000000015040000000044642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="9" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="9" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_matsuda_10" name="{=8rJWmjlH}Matsuda Ito" age="25" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="25" weight="0.2" build="0.2" key="0005BC0480B420061887025089E71050A1BD7FF8C7AEF104B8EBD727892B075811022624F87981260000000000000000000000000000283300000000770C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_toyama_1" name="{=iSVGS3Xg}Toyama Take" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.1" build="0.1" key="0005C00140B4200118A7026089EC0750E1BD7FF1777EF104B8E7D706892707080C9116C20A19A026000000000000000000000000000000000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="15" />
+      <Trait id="Manager" value="18" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="15" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_toyama_3" name="{=KxM5VRa1}Toyama Joko-in" age="45" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="45" weight="0.0756" build="0.2617" key="0005C40880B420101887026089EB5750A1BD7BF8C7A5A104B8EBBD56892A07580194161309768622000000000000000000000000000019000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="15" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="9" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_toyama_6" name="{=wTLH9970}Toyama Tei" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.0315" build="0.0392" key="000BC80E53B42005107870B85F8A0E69629B7F635F7CC9596F964BB8844C12080061060306B39904100000006E0002340000000000002614000000007ECC1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="20" />
+      <Trait id="Manager" value="15" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_didoji_1" name="{=HxDyc3ql}Daidoji Shino" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="33" weight="0.0648" build="0.1111" key="0011CC0FC0B4300AF97613A1E4410600CF306C0A60EF0500F3B81E14741610460092160309016000000000000000000000000000000000000000000035242081" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="11" />
+      <Trait id="Manager" value="13" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="9" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_narita_1" name="{=Vm16qd8L}Narita Araragi" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.0463" build="0.0448" key="0005D004400020029673264B47856554EA72881968858A46D9A287747665557706811662073345370000000000000000000000000000000000000000210C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="11" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_narita_3" name="{=5Zj9vfbh}Narita Jisho-in" age="68" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="68" weight="0.1307" build="0.0611" key="0000D401402C3002789985A465567A25736B8538368EDA8839688F417795766800312603039226370001000000010000000000000000183300000000625C30C1" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_narita_5" name="{=PiGMjXxP}Narita Myoko-in" age="73" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="73" weight="0.0417" build="0.1312" key="0022D80B511420022488FC5B4A9C60C173EF7D8B5BACF3649BB4FFBD8BCD0C1A0862168207489336000000006A00003900000000000015040000000044DC0001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="12" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_narita_6" name="{=QWiufJBx}Narita Kai" age="8" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="8" weight="0.0216" build="0.3133" key="0011DC0FD3B4300411777983868A6757627A78672BAE4907AE666E8074FD12080045060304469744101200003400000100000000000014720000000066942001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="15" />
+      <Trait id="Manager" value="11" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_narita_8" name="{=l0dKAD1a}Narita Futaba" age="20" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="20" weight="0.0352" build="0.0352" key="0005E00A001430021E899541A070735694C7868458AD6842CABB4893879587780051160305567253000000000000000000000000000000000000000066BC1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="13" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_narita_10" name="{=wAcogWf3}Narita Tomi" age="46" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="46" weight="0.0139" build="0.5046" key="0016E40CD2B4200135756F00F0ABB13041EF897A4BCC0D5194F48A308B3C04050108061300226224000000006A00003900000000000015040000000044040001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="11" />
+      <Trait id="Manager" value="20" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_narita_12" name="{=qjnRwQly}Narita Mari" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0" build="0.1447" key="000BE8002D414300614897614FBFAA5C164FF7DB2CBAA7F6287F4BD837D1F040A006206030606C435000000000000000000000000000014040000000078D42001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="14" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="13" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_chiba_1" name="{=WYTqPJNj}Chiba Hagi" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="43" weight="0.6" build="0" key="000BEC0CC058300AB899EAA9D9756AA7757BB6A62856368633647CA78867747604F09645FF923457000000000000000000000000000000000000000065F430C1" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="20" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_chiba_3" name="{=zsUPpaIN}Chiba Seikyo-in" age="55" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="55" weight="0.1682" build="0.777" key="0000BC0FC08830046B73546496585B8777C8866295A09FB6846908688AC40807008C3603080150030000000000000000000000000000000000000000791C30C0" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="14" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_chiba_7" name="{=WYTqPJNj}Chiba Hagi" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="43" weight="0.1651" build="0.1674" key="0005C0001314300E1E899541B074635694C7868458AD6842CABB4BB38795877800B326030B45525300000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="11" />
+      <Trait id="Manager" value="17" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_2_oda_1" name="{=vC6z8WVM}Oda Hazuki" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="1" build="0" key="0005C401511430045E899541B074665694C7889658893813CCBB8B948795877801A0F6140A55512200000000000000000000000000000000000000007D642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="17" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="9" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_2_oda_3" name="{=lIMwYkmk}Oda Keimyo-in" age="65" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="65" weight="0.1651" build="0.1674" key="000BC80CD21430062E899651B375565694F786A558AC7815928B9B758795877300B326030B45544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="12" />
+      <Trait id="Manager" value="10" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_2_oda_6" name="{=KDNrkROu}Oda Koma" age="8" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="8" weight="0.1651" build="0.1674" key="0000CC000E4430071E8994586366689794F788849B74983E778BC5B4879A877700B326030B75544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="20" />
+      <Trait id="Manager" value="19" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="13" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_2_oda_8" name="{=QYDzg3jA}Oda Riku" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="33" weight="0.1651" build="0.0301" key="002DD00B510000012E8994586366689794F788D59B6CA80C778BC5B4879A877701B026140B75524000000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="9" />
+      <Trait id="Manager" value="16" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="13" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_kogakubo_1" name="{=NxaysxUC}Koga-Kubo Jyoko-in" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0.1651" build="0.1998" key="0019D40FC0FC300A5E8994586368879494D589462B9AB8297DEBBAB4879A877701B326140B4752400000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="9" />
+      <Trait id="Manager" value="15" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_kogakubo_3" name="{=xKCKGPUy}Koga-Kubo Hoshun-in" age="36" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="36" weight="0.1651" build="0.1998" key="0000D8000044300AAE8994586368699494D589462B9AB8197DEBBAB4879A877701B326140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="20" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_kogakubo_7" name="{=olSVCZmf}Koga-Kubo Sato" age="12" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="12" weight="0.1651" build="0.0068" key="000CDC054014300CCE8994586367699494D589462B9DB8017CCBBDB4879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="13" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="11" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_sano_1" name="{=OjtJRVA8}Sano Moto" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="33" weight="0.1651" build="0.0068" key="0005E00A1314300D2E8994586364669494F589463B995F1B79ABD6E4879A877701B026140B4752200000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="20" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="12" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_sano_3" name="{=aVzIfT5b}Sano Kousen-in" age="70" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="70" weight="0.1651" build="0.1674" key="000CE4054014300F7E899541B076935694C787558862B828CADB77C48795877800B326030B45525300000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="19" />
+      <Trait id="Manager" value="18" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="17" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_sano_7" name="{=TtRVEzF9}Sano Jyomei-in" age="63" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="63" weight="0.1651" build="0.1674" key="002DE80E50003010FA899541B076974683E78584884B9812C9FBC4D48795977A00B326030B47925100000000000000000000000000000000000000007D7C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="19" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="11" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_yuki_1" name="{=2axdqLeU}Yuki Shoko" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="33" weight="0.1651" build="0.0068" key="000CEC0A801400070E8994586367879494D587983BBCA6367C9BB8E6879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="20" />
+      <Trait id="Manager" value="17" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="19" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_yuki_2" name="{=l7gGIVfb}Yuki Teruko" age="13" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="13" weight="0.2346" build="0.2623" key="0005F00880002010697666C7B247AAC870D788472C58D8568156F8558C08633B01B446130B65A21100000000000000000000000000000000000000007D6C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="16" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_yuki_3" name="{=KaW2u7Wt}Yuki Tsuruko" age="10" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="10" weight="0.5" build="0.5" key="0000F40013B43006128317117111116680F68735607DA402BDF6C6307C530016FD1906130AB061130044000085F030350000000000001A770000000041441001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="18" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_yuki_4" name="{=3dRiCHIH}Yuki Kuniko" age="8" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="8" weight="0.017" build="0.3627" key="0011F80CD2B4200405767D5335CA917070EF7A9E3BAA39759484DF038BCE05070135061303049342000000006A00003900000000000015040000000044642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="17" />
+      <Trait id="Manager" value="15" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="16" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_satomi_1" name="{=mF93OB0Z}Satomi Maki" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="33" weight="0.2" build="0.2" key="0005BC0480B420061887025089E71050A1BD7FF8C7AEF104B8EBD727892B075811022624F87981260000000000000000000000000000283300000000770C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="15" />
+      <Trait id="Manager" value="15" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="13" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_satomi_3" name="{=6pWBEhfi}Satomi Saka" age="58" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="58" weight="0.1" build="0.1" key="0005C00140B4200118A7026089EC0750E1BD7FF1777EF104B8E7D706892707080C9116C20A19A026000000000000000000000000000000000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="12" />
+      <Trait id="Manager" value="13" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="16" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_satomi_5" name="{=Sl8tIOAe}Satomi Tame" age="31" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="31" weight="0.0756" build="0.2617" key="0005C40880B420101887026089EB5750A1BD7BF8C7A5A104B8EBBD56892A07580194161309768622000000000000000000000000000019000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="20" />
+      <Trait id="Manager" value="20" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="16" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_satomi_7" name="{=RZW4u1bw}Satomi Kuni" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.0315" build="0.0392" key="000BC80E53B42005107870B85F8A0E69629B7F635F7CC9596F964BB8844C12080061060306B39904100000006E0002340000000000002614000000007ECC1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="9" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_satomi_9" name="{=mSLw5dla}Satomi Hisa" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.0648" build="0.1111" key="0011CC0FC0B4300AF97613A1E4410600CF306C0A60EF0500F3B81E14741610460092160309016000000000000000000000000000000000000000000035242081" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="14" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="13" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_satomi_11" name="{=XsI6P4Lw}Satomi Hama" age="20" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="20" weight="0.0463" build="0.0448" key="0005D004400020029673264B47856554EA72881968858A46D9A287747665557706811662073345370000000000000000000000000000000000000000210C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="14" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="20" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_satomi_12" name="{=Ae4oJ078}Satomi Tane" age="21" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.1307" build="0.0611" key="0000D401402C3002789985A465567A25736B8538368EDA8839688F417795766800312603039226370001000000010000000000000000183300000000625C30C1" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="19" />
+      <Trait id="Manager" value="15" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="9" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_satomi_13" name="{=BLEI9odB}Satomi Toyo" age="19" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="19" weight="0.0417" build="0.1312" key="0022D80B511420022488FC5B4A9C60C173EF7D8B5BACF3649BB4FFBD8BCD0C1A0862168207489336000000006A00003900000000000015040000000044DC0001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="20" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_masaki_1" name="{=wTQEOpa7}Masaki Kaname" age="17" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="17" weight="0.0216" build="0.3133" key="0011DC0FD3B4300411777983868A6757627A78672BAE4907AE666E8074FD12080045060304469744101200003400000100000000000014720000000066942001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_masaki_3" name="{=AWwPQ7GP}Masaki Kine" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="43" weight="0.0352" build="0.0352" key="0005E00A001430021E899541A070735694C7868458AD6842CABB4893879587780051160305567253000000000000000000000000000000000000000066BC1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="16" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_masaki_5" name="{=NClTemsw}Masaki Chie" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.0139" build="0.5046" key="0016E40CD2B4200135756F00F0ABB13041EF897A4BCC0D5194F48A308B3C04050108061300226224000000006A00003900000000000015040000000044040001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="16" />
+      <Trait id="Manager" value="18" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_masaki_7" name="{=10oV0mMQ}Masaki Saki" age="20" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="20" weight="0" build="0.1447" key="000BE8002D414300614897614FBFAA5C164FF7DB2CBAA7F6287F4BD837D1F040A006206030606C435000000000000000000000000000014040000000078D42001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="16" />
+      <Trait id="Manager" value="13" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="20" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_masaki_9" name="{=FxCpKg3G}Masaki Fusa" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0.6" build="0" key="000BEC0CC058300AB899EAA9D9756AA7757BB6A62856368633647CA78867747604F09645FF923457000000000000000000000000000000000000000065F430C1" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="17" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_masaki_11" name="{=P3Qi7ksg}Masaki Yoritoki" age="17" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="17" weight="0.1682" build="0.777" key="0000BC0FC08830046B73546496585B8777C8866295A09FB6846908688AC40807008C3603080150030000000000000000000000000000000000000000791C30C0" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="12" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_masaki_12" name="{=UkMRMuYI}Masaki Tokitomi" age="10" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="10" weight="0.1651" build="0.1674" key="0005C0001314300E1E899541B074635694C7868458AD6842CABB4BB38795877800B326030B45525300000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="17" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_2_sakai_1" name="{=L3rcTXEN}Sakai Keirin-ni" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="43" weight="1" build="0" key="0005C401511430045E899541B074665694C7889658893813CCBB8B948795877801A0F6140A55512200000000000000000000000000000000000000007D642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="11" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="18" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_utsunomiya_1" name="{=k8YjNpOk}Utsunomiya Nanryo-in" age="26" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="26" weight="0.1651" build="0.1674" key="000BC80CD21430062E899651B375565694F786A558AC7815928B9B758795877300B326030B45544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="17" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_haga_1" name="{=J0VnbU4a}Haga Tama" age="44" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="44" weight="0.1651" build="0.1674" key="0000CC000E4430071E8994586366689794F788849B74983E778BC5B4879A877700B326030B75544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="10" />
+      <Trait id="Manager" value="16" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_haga_3" name="{=l2brrFCq}Haga Chiyo" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0.1651" build="0.0301" key="002DD00B510000012E8994586366689794F788D59B6CA80C778BC5B4879A877701B026140B75524000000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="20" />
+      <Trait id="Manager" value="13" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="17" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_haga_5" name="{=tGEgf2XE}Haga Miki" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="48" weight="0.1651" build="0.1998" key="0019D40FC0FC300A5E8994586368879494D589462B9AB8297DEBBAB4879A877701B326140B4752400000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="13" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_kasama_1" name="{=B55gNGt8}Kasama Sue" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="48" weight="0.1651" build="0.1998" key="0000D8000044300AAE8994586368699494D589462B9AB8197DEBBAB4879A877701B326140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_kasama_3" name="{=u6pL0K8t}Kasama Kiku" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0.1651" build="0.0068" key="000CDC054014300CCE8994586367699494D589462B9DB8017CCBBDB4879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="13" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="14" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_satake_1" name="{=lTEN0uBO}Satake Hoju-in" age="19" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="19" weight="0.1651" build="0.0068" key="0005E00A1314300D2E8994586364669494F589463B995F1B79ABD6E4879A877701B026140B4752200000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="13" />
+      <Trait id="Manager" value="19" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_satake_3" name="{=cyPZnisM}Satake Kotoku-in" age="35" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="35" weight="0.1651" build="0.1674" key="000CE4054014300F7E899541B076935694C787558862B828CADB77C48795877800B326030B45525300000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="10" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_satake_5" name="{=O91iIET8}Satake Akane" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0.1651" build="0.1674" key="002DE80E50003010FA899541B076974683E78584884B9812C9FBC4D48795977A00B326030B47925100000000000000000000000000000000000000007D7C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="12" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="20" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_satake_8" name="{=RlQJPV7D}Satake Chitose" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0.1651" build="0.0068" key="000CEC0A801400070E8994586367879494D587983BBCA6367C9BB8E6879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="11" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="16" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_edo_1" name="{=tLFdyt4x}Edo Seisho-in" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.2346" build="0.2623" key="0005F00880002010697666C7B247AAC870D788472C58D8568156F8558C08633B01B446130B65A21100000000000000000000000000000000000000007D6C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="19" />
+      <Trait id="Manager" value="15" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_daijo_1" name="{=iK6pKdiD}Daijo Fumi" age="26" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="26" weight="0.5" build="0.5" key="0000F40013B43006128317117111116680F68735607DA402BDF6C6307C530016FD1906130AB061130044000085F030350000000000001A770000000041441001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="17" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="18" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_daijo_3" name="{=ad2F8T2d}Daijo Rensho-in" age="64" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="64" weight="0.017" build="0.3627" key="0011F80CD2B4200405767D5335CA917070EF7A9E3BAA39759484DF038BCE05070135061303049342000000006A00003900000000000015040000000044642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="14" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="13" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_daijo_5" name="{=RHgM2Jbk}Daijo Hana" age="20" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="20" weight="0.2" build="0.2" key="0005BC0480B420061887025089E71050A1BD7FF8C7AEF104B8EBD727892B075811022624F87981260000000000000000000000000000283300000000770C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="13" />
+      <Trait id="Manager" value="19" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="18" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_kashima_2" name="{=lK0BVLKk}Kashima Myoke-in" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="43" weight="0.1" build="0.1" key="0005C00140B4200118A7026089EC0750E1BD7FF1777EF104B8E7D706892707080C9116C20A19A026000000000000000000000000000000000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="10" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_kashima_4" name="{=wOWbGCUg}Kashima Nami" age="31" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="31" weight="0.0756" build="0.2617" key="0005C40880B420101887026089EB5750A1BD7BF8C7A5A104B8EBBD56892A07580194161309768622000000000000000000000000000019000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="10" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_kashima_6" name="{=xuJSkGe4}Kashima Chiku" age="22" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.0315" build="0.0392" key="000BC80E53B42005107870B85F8A0E69629B7F635F7CC9596F964BB8844C12080061060306B39904100000006E0002340000000000002614000000007ECC1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="15" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_kashima_8" name="{=aYVxNbSo}Kashima Sai" age="19" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="19" weight="0.0648" build="0.1111" key="0011CC0FC0B4300AF97613A1E4410600CF306C0A60EF0500F3B81E14741610460092160309016000000000000000000000000000000000000000000035242081" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="12" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_kashima_10" name="{=iqtWNEZR}Kashima Sae" age="12" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="12" weight="0.0463" build="0.0448" key="0005D004400020029673264B47856554EA72881968858A46D9A287747665557706811662073345370000000000000000000000000000000000000000210C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="16" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="15" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_nasu_1" name="{=Niu6EEIX}Nasu Toyo" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.1307" build="0.0611" key="0000D401402C3002789985A465567A25736B8538368EDA8839688F417795766800312603039226370001000000010000000000000000183300000000625C30C1" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="11" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_nasu_3" name="{=vgzjShtW}Nasu Masa" age="8" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="8" weight="0.0417" build="0.1312" key="0022D80B511420022488FC5B4A9C60C173EF7D8B5BACF3649BB4FFBD8BCD0C1A0862168207489336000000006A00003900000000000015040000000044DC0001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="17" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="kanto_bat_template_medium_female" />
+      <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>

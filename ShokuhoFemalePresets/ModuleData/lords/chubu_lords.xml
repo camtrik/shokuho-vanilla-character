@@ -1,0 +1,3050 @@
+<?xml version='1.0' encoding='utf-8'?>
+<NPCCharacters>
+  <NPCCharacter id="lord_1_asakura_1" name="{=92Plru2R}Asakura Shoko" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1682" build="0.777" key="0000BC0FC08830046B73546496585B8777C8866295A09FB6846908688AC40807008C3603080150030000000000000000000000000000000000000000791C30C0" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="18" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="16" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_asakura_3" name="{=10GS8hh6}Asakura Fusako" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.1651" build="0.1674" key="0005C0001314300E1E899541B074635694C7868458AD6842CABB4BB38795877800B326030B45525300000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="17" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_yamazaki_1" name="{=nTqCvCWT}Yamazaki Icho" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="48" weight="1" build="0" key="0005C401511430045E899541B074665694C7889658893813CCBB8B948795877801A0F6140A55512200000000000000000000000000000000000000007D642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="10" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_yamazaki_3" name="{=maSOGXrZ}Yamazaki Shomyo-in" age="70" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="70" weight="0.1651" build="0.1674" key="000BC80CD21430062E899651B375565694F786A558AC7815928B9B758795877300B326030B45544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="13" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_yamazaki_6" name="{=K5vrtqxW}Yamazaki Kogiku" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.1651" build="0.1674" key="0000CC000E4430071E8994586366689794F788849B74983E778BC5B4879A877700B326030B75544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="9" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="13" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_mizoe_1" name="{=edubnNQh}Mizoe Tome" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.1651" build="0.0301" key="002DD00B510000012E8994586366689794F788D59B6CA80C778BC5B4879A877701B026140B75524000000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="10" />
+      <Trait id="Manager" value="13" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_mizoe_3" name="{=YiN0QUpV}Mizoe Oku" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0.1651" build="0.1998" key="0019D40FC0FC300A5E8994586368879494D589462B9AB8297DEBBAB4879A877701B326140B4752400000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="20" />
+      <Trait id="Manager" value="12" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="18" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_maeba_1" name="{=jaNkGPsJ}Maeba Sei" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1651" build="0.1998" key="0000D8000044300AAE8994586368699494D589462B9AB8197DEBBAB4879A877701B326140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="17" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="20" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_maeba_3" name="{=aCNFnmpJ}Maebe Keiko-in" age="65" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="65" weight="0.1651" build="0.0068" key="000CDC054014300CCE8994586367699494D589462B9DB8017CCBBDB4879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="13" />
+      <Trait id="Manager" value="12" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_maeba_6" name="{=pTApzZjo}Maeba Kyo" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.1651" build="0.0068" key="0005E00A1314300D2E8994586364669494F589463B995F1B79ABD6E4879A877701B026140B4752200000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="20" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_anekouji_1" name="{=khSBd7oA}Anekouji Hagi" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="43" weight="0.1651" build="0.1674" key="000CE4054014300F7E899541B076935694C787558862B828CADB77C48795877800B326030B45525300000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="12" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_anekouji_3" name="{=Ozp8uVH2}Anekouji Mei" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="43" weight="0.1651" build="0.1674" key="002DE80E50003010FA899541B076974683E78584884B9812C9FBC4D48795977A00B326030B47925100000000000000000000000000000000000000007D7C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="19" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_anekouji_7" name="{=ChLVdmm5}Anekouji Hisa" age="2" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="2" weight="0.1651" build="0.0068" key="000CEC0A801400070E8994586367879494D587983BBCA6367C9BB8E6879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="11" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_anekouji_8" name="{=fllPpIHN}Anekouji Tei" age="0" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="0" weight="0.2346" build="0.2623" key="0005F00880002010697666C7B247AAC870D788472C58D8568156F8558C08633B01B446130B65A21100000000000000000000000000000000000000007D6C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="10" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="20" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_miki_1" name="{=pOV36qLw}Miki Kise" age="20" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="20" weight="0.5" build="0.5" key="0000F40013B43006128317117111116680F68735607DA402BDF6C6307C530016FD1906130AB061130044000085F030350000000000001A770000000041441001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="15" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_miki_3" name="{=BUaB2CAs}Miki Yuki" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0.017" build="0.3627" key="0011F80CD2B4200405767D5335CA917070EF7A9E3BAA39759484DF038BCE05070135061303049342000000006A00003900000000000015040000000044642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="11" />
+      <Trait id="Manager" value="20" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="13" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_uchigashima_1" name="{=ZAVB59DI}Uchigashima Tsune" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.2" build="0.2" key="0005BC0480B420061887025089E71050A1BD7FF8C7AEF104B8EBD727892B075811022624F87981260000000000000000000000000000283300000000770C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="11" />
+      <Trait id="Manager" value="16" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="13" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_uchigashima_3" name="{=0wP2NHjx}Uchigashima Shinko-in" age="50" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="50" weight="0.1" build="0.1" key="0005C00140B4200118A7026089EC0750E1BD7FF1777EF104B8E7D706892707080C9116C20A19A026000000000000000000000000000000000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="13" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_uchigashima_5" name="{=oWMNADvQ}Uchigashima Chise" age="2" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="2" weight="0.0756" build="0.2617" key="0005C40880B420101887026089EB5750A1BD7BF8C7A5A104B8EBBD56892A07580194161309768622000000000000000000000000000019000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="9" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_shimotsuma_1" name="{=YJnCp2Ng}Shimotsuma Tensho-in" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.0315" build="0.0392" key="000BC80E53B42005107870B85F8A0E69629B7F635F7CC9596F964BB8844C12080061060306B39904100000006E0002340000000000002614000000007ECC1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="14" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_shimotsuma_4" name="{=6EDf32QW}Shimotsuma Rengoyoku-ni" age="8" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="8" weight="0.0648" build="0.1111" key="0011CC0FC0B4300AF97613A1E4410600CF306C0A60EF0500F3B81E14741610460092160309016000000000000000000000000000000000000000000035242081" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="14" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="20" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_shimotsuma_5" name="{=JkG837Se}Shimotsuma Saiko-ni" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="3" weight="0.0463" build="0.0448" key="0005D004400020029673264B47856554EA72881968858A46D9A287747665557706811662073345370000000000000000000000000000000000000000210C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="14" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="18" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_shimotsuma_7" name="{=uWUgquZb}Shimotsuma Keian-in" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="48" weight="0.1307" build="0.0611" key="0000D401402C3002789985A465567A25736B8538368EDA8839688F417795766800312603039226370001000000010000000000000000183300000000625C30C1" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="18" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_shimotsuma_10" name="{=vJhGvDMI}Shimotsuma Koutoku-in" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="48" weight="0.0417" build="0.1312" key="0022D80B511420022488FC5B4A9C60C173EF7D8B5BACF3649BB4FFBD8BCD0C1A0862168207489336000000006A00003900000000000015040000000044DC0001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="12" />
+      <Trait id="Manager" value="11" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="13" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_shichiri_1" name="{=HBQgU0KK}Shichiri Renmyo-in" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.0216" build="0.3133" key="0011DC0FD3B4300411777983868A6757627A78672BAE4907AE666E8074FD12080045060304469744101200003400000100000000000014720000000066942001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="19" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="11" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_shichiri_2" name="{=YxadjwHu}Shichiri Shoko-ni" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0.0352" build="0.0352" key="0005E00A001430021E899541A070735694C7868458AD6842CABB4893879587780051160305567253000000000000000000000000000000000000000066BC1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="9" />
+      <Trait id="Manager" value="18" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="20" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_shichiri_3" name="{=EDp1Ip1P}Shichiri Tenshin-ni" age="13" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="13" weight="0.0139" build="0.5046" key="0016E40CD2B4200135756F00F0ABB13041EF897A4BCC0D5194F48A308B3C04050108061300226224000000006A00003900000000000015040000000044040001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="20" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="20" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_notohatakeyama_1" name="{=Uq5GEfN0}Noto-Hatakeyama Keiko" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0" build="0.1447" key="000BE8002D414300614897614FBFAA5C164FF7DB2CBAA7F6287F4BD837D1F040A006206030606C435000000000000000000000000000014040000000078D42001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_notohatakeyama_3" name="{=L7cUrjNA}Noto-Hatakeyama Keisei-in" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="43" weight="0.6" build="0" key="000BEC0CC058300AB899EAA9D9756AA7757BB6A62856368633647CA78867747604F09645FF923457000000000000000000000000000000000000000065F430C1" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="19" />
+      <Trait id="Manager" value="18" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_cho_1" name="{=54P6AoCQ}Cho Kine" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.1682" build="0.777" key="0000BC0FC08830046B73546496585B8777C8866295A09FB6846908688AC40807008C3603080150030000000000000000000000000000000000000000791C30C0" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="10" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_cho_3" name="{=mxxEQmKL}Cho Chiho" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.1651" build="0.1674" key="0005C0001314300E1E899541B074635694C7868458AD6842CABB4BB38795877800B326030B45525300000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="15" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_yusa_1" name="{=mtpjGuCC}Yusa Sue" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="33" weight="1" build="0" key="0005C401511430045E899541B074665694C7889658893813CCBB8B948795877801A0F6140A55512200000000000000000000000000000000000000007D642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="19" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_nukui_1" name="{=PkUrZWtb}Nukui Kane" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.1651" build="0.1674" key="000BC80CD21430062E899651B375565694F786A558AC7815928B9B758795877300B326030B45544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="16" />
+      <Trait id="Manager" value="12" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="18" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_nukui_3" name="{=PySBB1Zv}Nukui En" age="50" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="50" weight="0.1651" build="0.1674" key="0000CC000E4430071E8994586366689794F788849B74983E778BC5B4879A877700B326030B75544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="13" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_nukui_5" name="{=uNnrQHZs}Nukui Mitsu" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0.1651" build="0.0301" key="002DD00B510000012E8994586366689794F788D59B6CA80C778BC5B4879A877701B026140B75524000000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="10" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_maeda_1" name="{=X37Mxlbd}Maeda Matsu" age="21" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.1651" build="0.1998" key="0019D40FC0FC300A5E8994586368879494D589462B9AB8297DEBBAB4879A877701B326140B4752400000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="14" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_maeda_3" name="{=16wGsj58}Maeda Chorei-in" age="63" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="63" weight="0.1651" build="0.1998" key="0000D8000044300AAE8994586368699494D589462B9AB8197DEBBAB4879A877701B326140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="11" />
+      <Trait id="Manager" value="20" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_maeda_5" name="{=HNxdD6bx}Maeda Kou" age="9" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="9" weight="0.1651" build="0.0068" key="000CDC054014300CCE8994586367699494D589462B9DB8017CCBBDB4879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="19" />
+      <Trait id="Manager" value="13" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_maeda_6" name="{=KkMduqEv}Maeda Shizu" age="7" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="7" weight="0.1651" build="0.0068" key="0005E00A1314300D2E8994586364669494F589463B995F1B79ABD6E4879A877701B026140B4752200000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="18" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="12" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_maeda_8" name="{=pm7cjBgT}Maeda Tomi" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="33" weight="0.1651" build="0.1674" key="000CE4054014300F7E899541B076935694C787558862B828CADB77C48795877800B326030B45525300000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="15" />
+      <Trait id="Manager" value="11" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="17" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_maeda_11" name="{=o6NRDplP}Maeda Aki" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.1651" build="0.1674" key="002DE80E50003010FA899541B076974683E78584884B9812C9FBC4D48795977A00B326030B47925100000000000000000000000000000000000000007D7C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="17" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_maeda_14" name="{=JJRp7jcS}Maeda Kai" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="33" weight="0.1651" build="0.0068" key="000CEC0A801400070E8994586367879494D587983BBCA6367C9BB8E6879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="15" />
+      <Trait id="Manager" value="20" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_akechi_1" name="{=WM3E1lhn}Akechi Hiroko" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="48" weight="0.2346" build="0.2623" key="0005F00880002010697666C7B247AAC870D788472C58D8568156F8558C08633B01B446130B65A21100000000000000000000000000000000000000007D6C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="12" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_akechi_3" name="{=ADvtqTtw}Akechi Ei" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.5" build="0.5" key="0000F40013B43006128317117111116680F68735607DA402BDF6C6307C530016FD1906130AB061130044000085F030350000000000001A770000000041441001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_akechi_5" name="{=lQFaxxIJ}Akechi Toku" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.017" build="0.3627" key="0011F80CD2B4200405767D5335CA917070EF7A9E3BAA39759484DF038BCE05070135061303049342000000006A00003900000000000015040000000044642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="13" />
+      <Trait id="Manager" value="19" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_akechi_7" name="{=1R17d0b8}Akechi Tama" age="5" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="5" weight="0.2" build="0.2" key="0005BC0480B420061887025089E71050A1BD7FF8C7AEF104B8EBD727892B075811022624F87981260000000000000000000000000000283300000000770C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="20" />
+      <Trait id="Manager" value="20" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="11" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_niwa_1" name="{=L05jsNrJ}Niwa Fuse" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1" build="0.1" key="0005C00140B4200118A7026089EC0750E1BD7FF1777EF104B8E7D706892707080C9116C20A19A026000000000000000000000000000000000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="9" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_niwa_2" name="{=3qxBLbew}Niwa Masa" age="8" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="8" weight="0.0756" build="0.2617" key="0005C40880B420101887026089EB5750A1BD7BF8C7A5A104B8EBBD56892A07580194161309768622000000000000000000000000000019000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="9" />
+      <Trait id="Manager" value="17" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_niwa_3" name="{=XLXbashl}Niwa Take" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="3" weight="0.0315" build="0.0392" key="000BC80E53B42005107870B85F8A0E69629B7F635F7CC9596F964BB8844C12080061060306B39904100000006E0002340000000000002614000000007ECC1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="12" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="13" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_ikeda_1" name="{=Ry3yD8SW}Ikeda Zen'o-in" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.0648" build="0.1111" key="0011CC0FC0B4300AF97613A1E4410600CF306C0A60EF0500F3B81E14741610460092160309016000000000000000000000000000000000000000000035242081" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="13" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_ikeda_3" name="{=a8fhiErH}Ikeda Youtoku-in" age="53" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="53" weight="0.0463" build="0.0448" key="0005D004400020029673264B47856554EA72881968858A46D9A287747665557706811662073345370000000000000000000000000000000000000000210C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="16" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_ikeda_6" name="{=qiIMdezD}Ikeda Sen" age="2" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="2" weight="0.1307" build="0.0611" key="0000D401402C3002789985A465567A25736B8538368EDA8839688F417795766800312603039226370001000000010000000000000000183300000000625C30C1" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="20" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_tokugawa_1" name="{=0VxHt8iA}Tokugawa Tsukiyama" age="25" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="25" weight="0.0417" build="0.1312" key="0022D80B511420022488FC5B4A9C60C173EF7D8B5BACF3649BB4FFBD8BCD0C1A0862168207489336000000006A00003900000000000015040000000044DC0001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="12" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_tokugawa_3" name="{=zHBbLO7U}Tokugawa Kame" age="8" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="8" weight="0.0216" build="0.3133" key="0011DC0FD3B4300411777983868A6757627A78672BAE4907AE666E8074FD12080045060304469744101200003400000100000000000014720000000066942001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="16" />
+      <Trait id="Manager" value="17" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_tokugawa_4" name="{=T7whzugC}Tokugawa Toku" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="3" weight="0.0352" build="0.0352" key="0005E00A001430021E899541A070735694C7868458AD6842CABB4893879587780051160305567253000000000000000000000000000000000000000066BC1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="20" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="9" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_honda_1" name="{=wTE64EJ5}Honda Hisa" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0.0139" build="0.5046" key="0016E40CD2B4200135756F00F0ABB13041EF897A4BCC0D5194F48A308B3C04050108061300226224000000006A00003900000000000015040000000044040001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="16" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_honda_3" name="{=BDFqD8yc}Honda Sane" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0" build="0.1447" key="000BE8002D414300614897614FBFAA5C164FF7DB2CBAA7F6287F4BD837D1F040A006206030606C435000000000000000000000000000014040000000078D42001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="20" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_honda_5" name="{=OfpHBzpT}Honda Chie" age="58" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="58" weight="0.6" build="0" key="000BEC0CC058300AB899EAA9D9756AA7757BB6A62856368633647CA78867747604F09645FF923457000000000000000000000000000000000000000065F430C1" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="15" />
+      <Trait id="Manager" value="18" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_honda_7" name="{=NIaOPKNj}Honda Shii" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1682" build="0.777" key="0000BC0FC08830046B73546496585B8777C8866295A09FB6846908688AC40807008C3603080150030000000000000000000000000000000000000000791C30C0" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="9" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_honda_10" name="{=7TBN1cQm}Honda Tsune" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.1651" build="0.1674" key="0005C0001314300E1E899541B074635694C7868458AD6842CABB4BB38795877800B326030B45525300000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="19" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_sakakibara_2" name="{=RuAChgqW}Sakakibara Yuzu" age="50" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="50" weight="1" build="0" key="0005C401511430045E899541B074665694C7889658893813CCBB8B948795877801A0F6140A55512200000000000000000000000000000000000000007D642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="12" />
+      <Trait id="Manager" value="11" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_sakai_1" name="{=rrFghyqq}Sakai Usui" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.1651" build="0.1674" key="000BC80CD21430062E899651B375565694F786A558AC7815928B9B758795877300B326030B45544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="19" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_sakai_3" name="{=60W9WGjN}Sakai Fuu" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="3" weight="0.1651" build="0.1674" key="0000CC000E4430071E8994586366689794F788849B74983E778BC5B4879A877700B326030B75544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="17" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_ii_2" name="{=xF9RihZf}Ii Hiyo" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1651" build="0.0301" key="002DD00B510000012E8994586366689794F788D59B6CA80C778BC5B4879A877701B026140B75524000000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="14" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_ii_4" name="{=hznl27AL}Ii Takase" age="13" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="13" weight="0.1651" build="0.1998" key="0019D40FC0FC300A5E8994586368879494D589462B9AB8297DEBBAB4879A877701B326140B4752400000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="10" />
+      <Trait id="Manager" value="15" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="18" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_okubo_1" name="{=tIwfNdAU}Okubo Kaede" age="53" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="53" weight="0.1651" build="0.1998" key="0000D8000044300AAE8994586368699494D589462B9AB8197DEBBAB4879A877701B326140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="19" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="16" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_okubo_3" name="{=p9CqbJC5}Okubo Koto" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.1651" build="0.0068" key="000CDC054014300CCE8994586367699494D589462B9DB8017CCBBDB4879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="19" />
+      <Trait id="Manager" value="16" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="11" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_okubo_7" name="{=0Kytj7yK}Okubo Amane" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1651" build="0.0068" key="0005E00A1314300D2E8994586364669494F589463B995F1B79ABD6E4879A877701B026140B4752200000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="11" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_hattori_1" name="{=Q3mn8U0b}Hattori Naga" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.1651" build="0.1674" key="000CE4054014300F7E899541B076935694C787558862B828CADB77C48795877800B326030B45525300000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="14" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_hattori_3" name="{=9eEzhPnB}Hattori Kiku" age="53" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="53" weight="0.1651" build="0.1674" key="002DE80E50003010FA899541B076974683E78584884B9812C9FBC4D48795977A00B326030B47925100000000000000000000000000000000000000007D7C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_hattori_6" name="{=cYVbPLNq}Hattori Tsuru" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1651" build="0.0068" key="000CEC0A801400070E8994586367879494D587983BBCA6367C9BB8E6879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="14" />
+      <Trait id="Manager" value="18" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_hattori_9" name="{=vSW8NxqF}Hattori Haru" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="43" weight="0.2346" build="0.2623" key="0005F00880002010697666C7B247AAC870D788472C58D8568156F8558C08633B01B446130B65A21100000000000000000000000000000000000000007D6C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="20" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_uesugi_2" name="{=QwRXJCmI}Uesugi Seigan-in" age="56" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="56" weight="0.5" build="0.5" key="0000F40013B43006128317117111116680F68735607DA402BDF6C6307C530016FD1906130AB061130044000085F030350000000000001A770000000041441001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_uesugi_3" name="{=8Iv9ecNC}Uesugi Aya" age="40" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="40" weight="0.017" build="0.3627" key="0011F80CD2B4200405767D5335CA917070EF7A9E3BAA39759484DF038BCE05070135061303049342000000006A00003900000000000015040000000044642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="14" />
+      <Trait id="Manager" value="16" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="15" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_uesugi_6" name="{=shVCPmCc}Uesugi Madoka" age="8" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="8" weight="0.2" build="0.2" key="0005BC0480B420061887025089E71050A1BD7FF8C7AEF104B8EBD727892B075811022624F87981260000000000000000000000000000283300000000770C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="12" />
+      <Trait id="Manager" value="11" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="9" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_irobe_1" name="{=6z9bSHa7}Irobe Azuki" age="68" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="68" weight="0.1" build="0.1" key="0005C00140B4200118A7026089EC0750E1BD7FF1777EF104B8E7D706892707080C9116C20A19A026000000000000000000000000000000000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="17" />
+      <Trait id="Manager" value="14" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="9" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_kakizaki_1" name="{=wOt7PGWW}Kakizaki Kiku" age="53" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="53" weight="0.0756" build="0.2617" key="0005C40880B420101887026089EB5750A1BD7BF8C7A5A104B8EBBD56892A07580194161309768622000000000000000000000000000019000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="16" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_kakizaki_3" name="{=UX8SD6t0}Kakizaki Matsu" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.0315" build="0.0392" key="000BC80E53B42005107870B85F8A0E69629B7F635F7CC9596F964BB8844C12080061060306B39904100000006E0002340000000000002614000000007ECC1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="16" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="20" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_naoe_1" name="{=9zniFw6a}Naoe Ran" age="58" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="58" weight="0.0648" build="0.1111" key="0011CC0FC0B4300AF97613A1E4410600CF306C0A60EF0500F3B81E14741610460092160309016000000000000000000000000000000000000000000035242081" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="20" />
+      <Trait id="Manager" value="20" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_naoe_2" name="{=aizCBXYO}Naoe Sen" age="11" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="11" weight="0.0463" build="0.0448" key="0005D004400020029673264B47856554EA72881968858A46D9A287747665557706811662073345370000000000000000000000000000000000000000210C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="20" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_2_shibata_1" name="{=N5nPQ9iT}Shibata Saki" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1307" build="0.0611" key="0000D401402C3002789985A465567A25736B8538368EDA8839688F417795766800312603039226370001000000010000000000000000183300000000625C30C1" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="12" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_2_shibata_3" name="{=r6hPxS8L}Shibata Tensho-in" age="40" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="40" weight="0.0417" build="0.1312" key="0022D80B511420022488FC5B4A9C60C173EF7D8B5BACF3649BB4FFBD8BCD0C1A0862168207489336000000006A00003900000000000015040000000044DC0001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="9" />
+      <Trait id="Manager" value="18" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="19" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_2_shibata_5" name="{=msDDZ9zQ}Shibata Kotake" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.0216" build="0.3133" key="0011DC0FD3B4300411777983868A6757627A78672BAE4907AE666E8074FD12080045060304469744101200003400000100000000000014720000000066942001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="17" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_jinbo_1" name="{=hVSyu2fz}Jinbo Asahi" age="58" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="58" weight="0.0352" build="0.0352" key="0005E00A001430021E899541A070735694C7868458AD6842CABB4893879587780051160305567253000000000000000000000000000000000000000066BC1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="13" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="13" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_jinbo_3" name="{=6HJv9QVb}Jinbo Naka" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.0139" build="0.5046" key="0016E40CD2B4200135756F00F0ABB13041EF897A4BCC0D5194F48A308B3C04050108061300226224000000006A00003900000000000015040000000044040001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="11" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_jinbo_5" name="{=Bs8eZQFC}Jinbo Sayo" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0" build="0.1447" key="000BE8002D414300614897614FBFAA5C164FF7DB2CBAA7F6287F4BD837D1F040A006206030606C435000000000000000000000000000014040000000078D42001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="9" />
+      <Trait id="Manager" value="12" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_2_murakami_1" name="{=MESMSv9a}Murakami Fune" age="58" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="58" weight="0.6" build="0" key="000BEC0CC058300AB899EAA9D9756AA7757BB6A62856368633647CA78867747604F09645FF923457000000000000000000000000000000000000000065F430C1" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="12" />
+      <Trait id="Manager" value="10" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="18" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_2_murakami_3" name="{=TCUOLBRT}Murakami Sada" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1682" build="0.777" key="0000BC0FC08830046B73546496585B8777C8866295A09FB6846908688AC40807008C3603080150030000000000000000000000000000000000000000791C30C0" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="16" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="18" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_2_murakami_5" name="{=RuCWEn4I}Murakami Kyo" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="33" weight="0.1651" build="0.1674" key="0005C0001314300E1E899541B074635694C7868458AD6842CABB4BB38795877800B326030B45525300000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="19" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_2_murakami_7" name="{=kQx9hdpB}Murakami Tai" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="1" build="0" key="0005C401511430045E899541B074665694C7889658893813CCBB8B948795877801A0F6140A55512200000000000000000000000000000000000000007D642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="15" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_2_murakami_9" name="{=subHFWkG}Murakami Kazu" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.1651" build="0.1674" key="000BC80CD21430062E899651B375565694F786A558AC7815928B9B758795877300B326030B45544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="18" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="9" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_honma_1" name="{=DM691On9}Honma Tsuta" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.1651" build="0.1674" key="0000CC000E4430071E8994586366689794F788849B74983E778BC5B4879A877700B326030B75544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="13" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_honma_3" name="{=fy68erIy}Honma Tomo" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.1651" build="0.0301" key="002DD00B510000012E8994586366689794F788D59B6CA80C778BC5B4879A877701B026140B75524000000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="11" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="14" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_honjo_1" name="{=NDluCjrj}Honjo Momiji" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.1651" build="0.1998" key="0019D40FC0FC300A5E8994586368879494D589462B9AB8297DEBBAB4879A877701B326140B4752400000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="14" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_honjo_4" name="{=7U80DoRY}Honjo Sagami" age="53" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="53" weight="0.1651" build="0.1998" key="0000D8000044300AAE8994586368699494D589462B9AB8197DEBBAB4879A877701B326140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_honjo_6" name="{=1oAT3tap}Honjo Ise" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1651" build="0.0068" key="000CDC054014300CCE8994586367699494D589462B9DB8017CCBBDB4879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="13" />
+      <Trait id="Manager" value="20" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="hokuriku_bat_template_medium_female" />
+      <EquipmentSet id="hokuriku_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_takeda_1" name="{=4i6fDyD8}Takeda Sanjo-no-kata" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="48" weight="0.1651" build="0.0068" key="0005E00A1314300D2E8994586364669494F589463B995F1B79ABD6E4879A877701B026140B4752200000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="20" />
+      <Trait id="Manager" value="12" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="17" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="dead_lord_1_takeda_3" name="{=ypwKxiQu}Takeda Oi" age="68" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="68" weight="0.1651" build="0.1674" key="000CE4054014300F7E899541B076935694C787558862B828CADB77C48795877800B326030B45525300000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="20" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="18" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_takeda_6" name="{=DaR7ks4O}Takeda Mari" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="18" weight="0.1651" build="0.1674" key="002DE80E50003010FA899541B076974683E78584884B9812C9FBC4D48795977A00B326030B47925100000000000000000000000000000000000000007D7C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="14" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_takeda_7" name="{=oDOj9SD6}Takeda Kiku" age="10" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="10" weight="0.1651" build="0.0068" key="000CEC0A801400070E8994586367879494D587983BBCA6367C9BB8E6879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="11" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_takeda_8" name="{=xpuvPs14}Takeda Matsu" age="7" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="7" weight="0.2346" build="0.2623" key="0005F00880002010697666C7B247AAC870D788472C58D8568156F8558C08633B01B446130B65A21100000000000000000000000000000000000000007D6C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="13" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="20" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_takeda_10" name="{=XTtGyQDW}Takeda Oboro" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="33" weight="0.5" build="0.5" key="0000F40013B43006128317117111116680F68735607DA402BDF6C6307C530016FD1906130AB061130044000085F030350000000000001A770000000041441001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="16" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_takeda_13" name="{=AnDrohq6}Takeda Tsuyu" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.017" build="0.3627" key="0011F80CD2B4200405767D5335CA917070EF7A9E3BAA39759484DF038BCE05070135061303049342000000006A00003900000000000015040000000044642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="15" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="13" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_takeda_15" name="{=Kr9vJDJr}Takeda Koharu" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.2" build="0.2" key="0005BC0480B420061887025089E71050A1BD7FF8C7AEF104B8EBD727892B075811022624F87981260000000000000000000000000000283300000000770C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="13" />
+      <Trait id="Manager" value="16" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_baba_1" name="{=g6O5UTIU}Baba Shinko-in" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="48" weight="0.1" build="0.1" key="0005C00140B4200118A7026089EC0750E1BD7FF1777EF104B8E7D706892707080C9116C20A19A026000000000000000000000000000000000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="10" />
+      <Trait id="Manager" value="10" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="20" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_baba_3" name="{=DHiUrEoe}Baba Tatsu" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.0756" build="0.2617" key="0005C40880B420101887026089EB5750A1BD7BF8C7A5A104B8EBBD56892A07580194161309768622000000000000000000000000000019000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="15" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="20" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_baba_5" name="{=3qyP1ctn}Baba Fumi" age="26" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="26" weight="0.0315" build="0.0392" key="000BC80E53B42005107870B85F8A0E69629B7F635F7CC9596F964BB8844C12080061060306B39904100000006E0002340000000000002614000000007ECC1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="15" />
+      <Trait id="Manager" value="16" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="12" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_baba_7" name="{=njGs760D}Baba Mai" age="24" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="24" weight="0.0648" build="0.1111" key="0011CC0FC0B4300AF97613A1E4410600CF306C0A60EF0500F3B81E14741610460092160309016000000000000000000000000000000000000000000035242081" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="9" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_kiso_1" name="{=vbIJLnaE}Kiso Maki" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="48" weight="0.0463" build="0.0448" key="0005D004400020029673264B47856554EA72881968858A46D9A287747665557706811662073345370000000000000000000000000000000000000000210C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="16" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_kiso_3" name="{=hCph1y6W}Kiso Mari" age="25" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="25" weight="0.1307" build="0.0611" key="0000D401402C3002789985A465567A25736B8538368EDA8839688F417795766800312603039226370001000000010000000000000000183300000000625C30C1" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="15" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_kiso_5" name="{=CST4VZ3y}Kiso Iwa" age="16" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="16" weight="0.0417" build="0.1312" key="0022D80B511420022488FC5B4A9C60C173EF7D8B5BACF3649BB4FFBD8BCD0C1A0862168207489336000000006A00003900000000000015040000000044DC0001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="16" />
+      <Trait id="Manager" value="10" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_sanada_1" name="{=LLDSUh4P}Sanada Kita" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.0216" build="0.3133" key="0011DC0FD3B4300411777983868A6757627A78672BAE4907AE666E8074FD12080045060304469744101200003400000100000000000014720000000066942001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_sanada_3" name="{=xCBCWoyE}Sanada Kyou'un-in" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="48" weight="0.0352" build="0.0352" key="0005E00A001430021E899541A070735694C7868458AD6842CABB4893879587780051160305567253000000000000000000000000000000000000000066BC1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="13" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_sanada_5" name="{=WVGige9a}Sanada Azuma" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.0139" build="0.5046" key="0016E40CD2B4200135756F00F0ABB13041EF897A4BCC0D5194F48A308B3C04050108061300226224000000006A00003900000000000015040000000044040001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="11" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="16" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_sanada_7" name="{=8GNzUWme}Sanada Yamanote" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0" build="0.1447" key="000BE8002D414300614897614FBFAA5C164FF7DB2CBAA7F6287F4BD837D1F040A006206030606C435000000000000000000000000000014040000000078D42001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_nishina_2" name="{=p5ZVom76}Nishina Sekisho-in" age="53" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="53" weight="0.6" build="0" key="000BEC0CC058300AB899EAA9D9756AA7757BB6A62856368633647CA78867747604F09645FF923457000000000000000000000000000000000000000065F430C1" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="19" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="15" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_oyamada_1" name="{=Dg5B2zhF}Oyamada Momo" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1682" build="0.777" key="0000BC0FC08830046B73546496585B8777C8866295A09FB6846908688AC40807008C3603080150030000000000000000000000000000000000000000791C30C0" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_anayama_1" name="{=aEtxWN2O}Anayama Fuchi" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1651" build="0.1674" key="0005C0001314300E1E899541B074635694C7868458AD6842CABB4BB38795877800B326030B45525300000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="13" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="19" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_yamagata_1" name="{=HjUZWMTO}Yamagata Yumi" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="48" weight="1" build="0" key="0005C401511430045E899541B074665694C7889658893813CCBB8B948795877801A0F6140A55512200000000000000000000000000000000000000007D642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="11" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="13" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_yamagata_3" name="{=92oaxFYB}Yamagata Hana" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.1651" build="0.1674" key="000BC80CD21430062E899651B375565694F786A558AC7815928B9B758795877300B326030B45544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="17" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="17" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_yamagata_6" name="{=KDNU2gvn}Yamagata Tsuku" age="8" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="8" weight="0.1651" build="0.1674" key="0000CC000E4430071E8994586366689794F788849B74983E778BC5B4879A877700B326030B75544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="14" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="19" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_yamagata_7" name="{=ecShe0I2}Yamagata En" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="3" weight="0.1651" build="0.0301" key="002DD00B510000012E8994586366689794F788D59B6CA80C778BC5B4879A877701B026140B75524000000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="20" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_kasuga_1" name="{=TYa3IRFt}Kasuga Shige" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.1651" build="0.1998" key="0019D40FC0FC300A5E8994586368879494D589462B9AB8297DEBBAB4879A877701B326140B4752400000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="1" />
+      <Trait id="Politician" value="18" />
+      <Trait id="Manager" value="14" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="13" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_kasuga_3" name="{=Ha5aVxa5}Kasuga Yuki" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.1651" build="0.1998" key="0000D8000044300AAE8994586368699494D589462B9AB8197DEBBAB4879A877701B326140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="11" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="18" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tosan_bat_template_medium_female" />
+      <EquipmentSet id="tosan_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_imagawa_1" name="{=JaOi7kxn}Imagawa Hayakawa" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1651" build="0.0068" key="000CDC054014300CCE8994586367699494D589462B9DB8017CCBBDB4879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_imagawa_2" name="{=PTuEiwT5}Imagawa Sada" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="3" weight="0.1651" build="0.0068" key="0005E00A1314300D2E8994586364669494F589463B995F1B79ABD6E4879A877701B026140B4752200000000000000000000000000000000000000000797C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="11" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="15" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_asahina_1" name="{=iREsPn2R}Asahina Sawa" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1651" build="0.1674" key="000CE4054014300F7E899541B076935694C787558862B828CADB77C48795877800B326030B45525300000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Politician" value="12" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_asahina_4" name="{=TyQ6HZYx}Asahina Yui" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="38" weight="0.1651" build="0.1674" key="002DE80E50003010FA899541B076974683E78584884B9812C9FBC4D48795977A00B326030B47925100000000000000000000000000000000000000007D7C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="15" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_fuji_1" name="{=Fo5zfzvM}Fuji Matsu" age="53" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="53" weight="0.1651" build="0.0068" key="000CEC0A801400070E8994586367879494D587983BBCA6367C9BB8E6879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="10" />
+      <Trait id="Manager" value="10" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_fuji_3" name="{=R6QFv61S}Fuji Yae" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.2346" build="0.2623" key="0005F00880002010697666C7B247AAC870D788472C58D8568156F8558C08633B01B446130B65A21100000000000000000000000000000000000000007D6C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="16" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_fuji_5" name="{=BmHwTG2p}Fuji Kou" age="13" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="13" weight="0.5" build="0.5" key="0000F40013B43006128317117111116680F68735607DA402BDF6C6307C530016FD1906130AB061130044000085F030350000000000001A770000000041441001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Politician" value="11" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_okabe_1" name="{=P1UiQyME}Okabe Sakae" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="33" weight="0.017" build="0.3627" key="0011F80CD2B4200405767D5335CA917070EF7A9E3BAA39759484DF038BCE05070135061303049342000000006A00003900000000000015040000000044642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="11" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_okabe_3" name="{=mteALoQA}Okabe Myosen-ni" age="58" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="58" weight="0.2" build="0.2" key="0005BC0480B420061887025089E71050A1BD7FF8C7AEF104B8EBD727892B075811022624F87981260000000000000000000000000000283300000000770C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="13" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="9" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_okabe_7" name="{=J8S3HAxP}Okabe Kame" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="23" weight="0.1" build="0.1" key="0005C00140B4200118A7026089EC0750E1BD7FF1777EF104B8E7D706892707080C9116C20A19A026000000000000000000000000000000000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Politician" value="15" />
+      <Trait id="Manager" value="18" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Commander" value="19" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tokai_bat_template_medium_female" />
+      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>

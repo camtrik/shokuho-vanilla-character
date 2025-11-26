@@ -25,7 +25,43 @@
   <SubModules />
   <Xmls>
     <XmlNode>
+      <XmlName id="NPCCharacters" path="lords/chubu_lords" />
+      <IncludedGameTypes>
+        <GameType value="ShokuhoCampaign" />
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="NPCCharacters" path="lords/chugoku_lords" />
+      <IncludedGameTypes>
+        <GameType value="ShokuhoCampaign" />
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="NPCCharacters" path="lords/kanto_lords" />
+      <IncludedGameTypes>
+        <GameType value="ShokuhoCampaign" />
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
       <XmlName id="NPCCharacters" path="lords/kinki_lords" />
+      <IncludedGameTypes>
+        <GameType value="ShokuhoCampaign" />
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="NPCCharacters" path="lords/kyushu_lords" />
+      <IncludedGameTypes>
+        <GameType value="ShokuhoCampaign" />
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="NPCCharacters" path="lords/shikoku_lords" />
+      <IncludedGameTypes>
+        <GameType value="ShokuhoCampaign" />
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="NPCCharacters" path="lords/tohoku_lords" />
       <IncludedGameTypes>
         <GameType value="ShokuhoCampaign" />
       </IncludedGameTypes>
