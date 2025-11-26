@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+  <NPCCharacter id="lord_1_azai_1" name="{=rvDsCUpk}Azai Ichi" age="21" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.1682" build="0.777" key="0000840FC08830046B73546496585B8777C8866295A09FB6846908688AC40807008C3603080150030000000000000000000000000000000000000000791C30C0"/>
+    </face>
+    <skills/>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5"/>
+      <Trait id="Politician" value="19"/>
+      <Trait id="Manager" value="15"/>
+      <Trait id="Generosity" value="1"/>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Commander" value="7"/>
+      <Trait id="Mercy" value="-1"/>
+      <Trait id="Valor" value="0"/>
+      <Trait id="Honor" value="0"/>
+      <Trait id="Authoritarian" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster/>
+      <EquipmentSet id="kinai_bat_template_medium_female"/>
+      <EquipmentSet id="kinai_civ_template_default_female" civilian="true"/>
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>

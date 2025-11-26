@@ -1,0 +1,34 @@
+<Module>
+  <Name value="Shokuho Female Presets"/>
+  <Id value="ShokuhoFemalePresets"/>
+  <Version value="v1.0.0"/>
+  <DefaultModule value="false"/>
+  <SingleplayerModule value="true"/>
+  <MultiplayerModule value="false"/>
+  <ModuleCategory value="Singleplayer"/>
+  <DependedModules>
+    <DependedModule Id="Native" DependentVersion="v1.2.12" />
+    <DependedModule Id="SandBoxCore" DependentVersion="v1.2.12" />
+    <DependedModule Id="Sandbox" DependentVersion="v1.2.12" />
+    <DependedModule Id="StoryMode" DependentVersion="v1.2.12" />
+    <DependedModule Id="CustomBattle" DependentVersion="v1.2.12" optional="true" />
+    <DependedModule Id="Shokuho" DependentVersion="v1.0.0.9" />
+  </DependedModules>
+  <DependedModuleMetadatas>
+    <DependedModuleMetadata id="Native" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="SandBoxCore" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="Sandbox" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="StoryMode" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="CustomBattle" order="LoadBeforeThis" optional="true" />
+    <DependedModuleMetadata id="Shokuho" order="LoadBeforeThis" />
+  </DependedModuleMetadatas>
+  <SubModules />
+  <Xmls>
+    <XmlNode>
+      <XmlName id="NPCCharacters" path="lords/kinki_lords" />
+      <IncludedGameTypes>
+        <GameType value="ShokuhoCampaign" />
+      </IncludedGameTypes>
+    </XmlNode>
+  </Xmls>
+</Module>
