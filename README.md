@@ -14,7 +14,9 @@ Four variants are included so you can pick exactly what you need:
 Recommend one of the Shokuho-body variants, because many Shokuho armors rely on those body meshes; wearing them with vanilla body shapes can make parts of the torso disappear.
 
 ### New Presets for Female Characters in Shokuho
-Create new presets for female characters in Shokuho.
+Provide fresh new character presets for female characters in Shokuho. Plus convert Ii Naotora into female (Still not understand why the famous Female Castle Lord is Male in Shokuho)
+
+Also, change Lord Ii Naotora into female
 [Here](https://github.com/camtrik/shokuho-vanilla-character/blob/main/character_presets.md) is the preset code.
 
 中文
@@ -30,5 +32,5 @@ Create new presets for female characters in Shokuho.
 推荐使用带织丰身形的版本（由于织丰中很多装备已经和织丰的身形绑定，原版身形穿织丰装备可能出现身体部分变透明的问题）
 
 ### 织丰女性新的捏脸预设
-给织丰中的女性角色准备了新的捏脸预设。
+给织丰中的女性角色准备了新的捏脸预设。同时将井伊直虎修改为女性（不知道为啥这个mod里女城主是个男的）
 预设中用到的代码在[这里](https://github.com/camtrik/shokuho-vanilla-character/blob/main/character_presets.md)
