@@ -1,0 +1,459 @@
+<NPCCharacters>
+  <NPCCharacter id="spc_wanderer_saikai_7" name="{=kgQAfRmd}{FIRSTNAME} the Oni" voice="softspoken" age="28" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.saikai" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1682" build="0.777" key="0000BC0FC08830046B73546496585B8777C8866295A09FB6846908688AC40807008C3603080150030000000000000000000000000000000000000000791C30C0" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="5" />
+      <Trait id="SergeantCommandSkills" value="2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Calculating" value="3" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_oni_saikai" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_oni_saikai" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_saikai_8" name="{=RPyVUdSp}{FIRSTNAME} the Mamushi" voice="curt" age="29" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.saikai" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="29" weight="0.1651" build="0.1674" key="0005C0001314300E1E899541B074635694C7868458AD6842CABB4BB38795877800B326030B45525300000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <Traits>
+      <Trait id="CrossbowmanStyle" value="3" />
+      <Trait id="ScoutSkills" value="5" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_mamushi_saikai" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_mamushi_saikai" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_saikai_9" name="{=1WG6Sbxu}{FIRSTNAME} the Wandering" voice="ironic" age="21" is_female="true" is_hero="true" default_group="Infantry" is_template="false" culture="Culture.saikai" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.222" build="0" key="0005C401511430045E899541B074665694C7889658893813CCBB8B948795877801A0F6140A55512200000000000000000000000000000000000000007D642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="Trader" value="6" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_trader_saikai" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_trader_saikai" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_nankai_7" name="{=3wzexaA7}{FIRSTNAME} the She-Wolf" voice="curt" age="28" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.nankai" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.588" build="0" key="0000C400111430045E899541B074665694C7889658893813CCBB8B948795877801A096140A55512200000000000000000000000000000000000000007D642001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="HuscarlFightingSkills" value="5" />
+      <Trait id="SergeantCommandSkills" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_nankai" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_nankai" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_nankai_8" name="{=OIXub6bS}{FIRSTNAME} the Alone" voice="curt" age="29" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.nankai" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="29" weight="0.1651" build="0.1674" key="000BC80CD21430062E899651B375565694F786A558AC7815928B9B758795877300B326030B45544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="ScoutSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_nankai" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_nankai" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_nankai_9" name="{=KY2zbWkj}{FIRSTNAME} the Swift" voice="ironic" age="21" is_female="true" is_hero="true" default_group="Infantry" is_template="false" culture="Culture.nankai" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.1651" build="0.1674" key="0000CC000E4430071E8994586366689794F788849B74983E778BC5B4879A877700B326030B75544200000000000000000000000000000000000000007D7C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="RogueSkills" value="4" />
+      <Trait id="Trader" value="8" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_nankai" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_nankai" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_sanyo_7" name="{=3wzexaA7}{FIRSTNAME} the She-Wolf" voice="curt" age="28" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.sanyo" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1651" build="0.0301" key="002DD00B510000012E8994586366689794F788D59B6CA80C778BC5B4879A877701B026140B75524000000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="HuscarlFightingSkills" value="5" />
+      <Trait id="SergeantCommandSkills" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sanyo" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sanyo" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_sanyo_8" name="{=OIXub6bS}{FIRSTNAME} the Alone" voice="curt" age="29" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.sanyo" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="29" weight="0.1651" build="0.1998" key="0019D40FC0FC300A5E8994586368879494D589462B9AB8297DEBBAB4879A877701B326140B4752400000000000000000000000000000000000000000797C2001" />
+    </face>
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="ScoutSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sanyo" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sanyo" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_sanyo_9" name="{=KY2zbWkj}{FIRSTNAME} the Swift" voice="ironic" age="21" is_female="true" is_hero="true" default_group="Infantry" is_template="false" culture="Culture.sanyo" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.1651" build="0.1998" key="0000D8000044300AAE8994586368699494D589462B9AB8197DEBBAB4879A877701B326140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="RogueSkills" value="4" />
+      <Trait id="Trader" value="8" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sanyo" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sanyo" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_kinai_7" name="{=3wzexaA7}{FIRSTNAME} the She-Wolf" voice="curt" age="28" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.kinai" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1651" build="0.0068" key="000CDC054014300CCE8994586367699494D589462B9DB8017CCBBDB4879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="HuscarlFightingSkills" value="5" />
+      <Trait id="SergeantCommandSkills" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_kinai" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_kinai" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_kinai_8" name="{=OIXub6bS}{FIRSTNAME} the Alone" voice="curt" age="29" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.kinai" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="29" weight="0.1651" build="0.0068" key="0005E00A1314300D2E8994586364669494F589463B995F1B79ABD6E4879A877701B026140B4752200000000000000000000000000000000000000000797C2001" />
+    </face>
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="ScoutSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_kinai" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_kinai" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_kinai_9" name="{=KY2zbWkj}{FIRSTNAME} the Swift" voice="ironic" age="21" is_female="true" is_hero="true" default_group="Infantry" is_template="false" culture="Culture.kinai" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.1651" build="0.1674" key="000CE4054014300F7E899541B076935694C787558862B828CADB77C48795877800B326030B45525300000000000000000000000000000000000000007D7C1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="RogueSkills" value="4" />
+      <Trait id="Trader" value="8" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_kinai" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_kinai" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_hokuriku_7" name="{=3wzexaA7}{FIRSTNAME} the She-Wolf" voice="curt" age="28" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.hokuriku" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1651" build="0.1674" key="002DE80E50003010FA899541B076974683E78584884B9812C9FBC4D48795977A00B326030B47925100000000000000000000000000000000000000007D7C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="HuscarlFightingSkills" value="5" />
+      <Trait id="SergeantCommandSkills" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_hokuriku" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_hokuriku" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_hokuriku_8" name="{=OIXub6bS}{FIRSTNAME} the Alone" voice="curt" age="29" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.hokuriku" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="29" weight="0.1651" build="0.0068" key="000CEC0A801400070E8994586367879494D587983BBCA6367C9BB8E6879A877701B026140B2752200000000000000000000000000000000000000000797C1001" />
+    </face>
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="ScoutSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_hokuriku" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_hokuriku" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_hokuriku_9" name="{=KY2zbWkj}{FIRSTNAME} the Swift" voice="ironic" age="21" is_female="true" is_hero="true" default_group="Infantry" is_template="false" culture="Culture.hokuriku" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.2346" build="0.2623" key="0005F00880002010697666C7B247AAC870D788472C58D8568156F8558C08633B01B446130B65A21100000000000000000000000000000000000000007D6C2001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="RogueSkills" value="4" />
+      <Trait id="Trader" value="8" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_hokuriku" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_hokuriku" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_tosan_7" name="{=3wzexaA7}{FIRSTNAME} the She-Wolf" voice="curt" age="28" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.tosan" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.5" build="0.5" key="0000F40013B43006128317117111116680F68735607DA402BDF6C6307C530016FD1906130AB061130044000085F030350000000000001A770000000041441001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="HuscarlFightingSkills" value="5" />
+      <Trait id="SergeantCommandSkills" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tosan" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tosan" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_tosan_8" name="{=OIXub6bS}{FIRSTNAME} the Alone" voice="curt" age="29" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.tosan" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="29" weight="0.017" build="0.3627" key="0011F80CD2B4200405767D5335CA917070EF7A9E3BAA39759484DF038BCE05070135061303049342000000006A00003900000000000015040000000044642001" />
+    </face>
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="ScoutSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tosan" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tosan" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_tosan_9" name="{=KY2zbWkj}{FIRSTNAME} the Swift" voice="ironic" age="21" is_female="true" is_hero="true" default_group="Infantry" is_template="false" culture="Culture.tosan" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.2" build="0.2" key="0005BC0480B420061887025089E71050A1BD7FF8C7AEF104B8EBD727892B075811022624F87981260000000000000000000000000000283300000000770C1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="RogueSkills" value="4" />
+      <Trait id="Trader" value="8" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tosan" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tosan" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_tokai_7" name="{=3wzexaA7}{FIRSTNAME} the She-Wolf" voice="curt" age="28" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.tokai" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.1" build="0.1" key="0005C00140B4200118A7026089EC0750E1BD7FF1777EF104B8E7D706892707080C9116C20A19A026000000000000000000000000000000000000000077341001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="HuscarlFightingSkills" value="5" />
+      <Trait id="SergeantCommandSkills" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tokai" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tokai" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_tokai_8" name="{=OIXub6bS}{FIRSTNAME} the Alone" voice="curt" age="29" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.tokai" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="29" weight="0.0756" build="0.2617" key="0005C40880B420101887026089EB5750A1BD7BF8C7A5A104B8EBBD56892A07580194161309768622000000000000000000000000000019000000000077341001" />
+    </face>
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="ScoutSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tokai" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tokai" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_tokai_9" name="{=KY2zbWkj}{FIRSTNAME} the Swift" voice="ironic" age="21" is_female="true" is_hero="true" default_group="Infantry" is_template="false" culture="Culture.tokai" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.0315" build="0.0392" key="000BC80E53B42005107870B85F8A0E69629B7F635F7CC9596F964BB8844C12080061060306B39904100000006E0002340000000000002614000000007ECC1000" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="RogueSkills" value="4" />
+      <Trait id="Trader" value="8" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tokai" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tokai" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_kanto_7" name="{=3wzexaA7}{FIRSTNAME} the She-Wolf" voice="curt" age="28" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.kanto" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.0648" build="0.1111" key="0011CC0FC0B4300AF97613A1E4410600CF306C0A60EF0500F3B81E14741610460092160309016000000000000000000000000000000000000000000035242081" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="HuscarlFightingSkills" value="5" />
+      <Trait id="SergeantCommandSkills" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_kanto" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_kanto" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_kanto_8" name="{=OIXub6bS}{FIRSTNAME} the Alone" voice="curt" age="29" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.kanto" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="29" weight="0.0463" build="0.0448" key="0005D004400020029673264B47856554EA72881968858A46D9A287747665557706811662073345370000000000000000000000000000000000000000210C2001" />
+    </face>
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="ScoutSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_kanto" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_kanto" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_kanto_9" name="{=KY2zbWkj}{FIRSTNAME} the Swift" voice="ironic" age="21" is_female="true" is_hero="true" default_group="Infantry" is_template="false" culture="Culture.kanto" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.1307" build="0.0611" key="0000D401402C3002789985A465567A25736B8538368EDA8839688F417795766800312603039226370001000000010000000000000000183300000000625C30C1" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="RogueSkills" value="4" />
+      <Trait id="Trader" value="8" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_kanto" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_kanto" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_ou_7" name="{=3wzexaA7}{FIRSTNAME} the She-Wolf" voice="curt" age="28" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.ou" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="28" weight="0.0417" build="0.1312" key="0022D80B511420022488FC5B4A9C60C173EF7D8B5BACF3649BB4FFBD8BCD0C1A0862168207489336000000006A00003900000000000015040000000044DC0001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="HuscarlFightingSkills" value="5" />
+      <Trait id="SergeantCommandSkills" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_ou" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_ou" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_ou_8" name="{=OIXub6bS}{FIRSTNAME} the Alone" voice="curt" age="29" is_female="true" default_group="Infantry" is_template="false" is_hero="true" culture="Culture.ou" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="29" weight="0.0216" build="0.3133" key="0011DC0FD3B4300411777983868A6757627A78672BAE4907AE666E8074FD12080045060304469744101200003400000100000000000014720000000066942001" />
+    </face>
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="ScoutSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_ou" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_ou" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_wanderer_ou_9" name="{=KY2zbWkj}{FIRSTNAME} the Swift" voice="ironic" age="21" is_female="true" is_hero="true" default_group="Infantry" is_template="false" culture="Culture.ou" occupation="Wanderer">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.0352" build="0.0352" key="0005E00A001430021E899541A070735694C7868458AD6842CABB4893879587780051160305567253000000000000000000000000000000000000000066BC1001" />
+    </face>
+    <skills />
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="RogueSkills" value="4" />
+      <Trait id="Trader" value="8" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_ou" civilian="true" />
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_ou" />
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>
