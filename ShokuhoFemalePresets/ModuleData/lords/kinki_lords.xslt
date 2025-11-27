@@ -244,7 +244,7 @@
   </xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_azai_1']/face">
     <face>
-      <BodyProperties version="4" age="{../@age}" weight="0.0756" build="0.2617" key="0005C40880B420101887026089EB5750A1BD7BF8C7A5A104B8EBBD56892A07580194161309768622000000000000000000000000000019000000000077341001" />
+      <BodyProperties version="4" age="{../@age}" weight="0.1682" build="0.777" key="0000BC0FC08830046B73546496585B8777C8866295A09FB6846908688AC40807008C3603080150030000000000000000000000000000000000000000791C30C0" />
     </face>
   </xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_azai_3']/face">
@@ -284,7 +284,7 @@
   </xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_oda_1']/face">
     <face>
-      <BodyProperties version="4" age="{../@age}" weight="0.0139" build="0.5046" key="0016E40CD2B4200135756F00F0ABB13041EF897A4BCC0D5194F48A308B3C04050108061300226224000000006A00003900000000000015040000000044040001" />
+      <BodyProperties version="4" age="{../@age}" weight="0.0139" build="0.5046" key="0000C400111430045E899541B074665694C7889658893813CCBB8B948795877801A096140A55512200000000000000000000000000000000000000007D642001" />
     </face>
   </xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_oda_3']/face">

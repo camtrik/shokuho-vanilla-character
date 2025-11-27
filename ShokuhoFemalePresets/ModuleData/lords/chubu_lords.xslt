@@ -15,17 +15,23 @@
       <xsl:apply-templates select="node()" />
     </xsl:copy>
   </xsl:template>
-  <xsl:template match="NPCCharacter[@id='lord_1_ii']/Equipments">
-    <Equipments>
-      <EquipmentRoster />
-      <EquipmentSet id="tokai_bat_template_medium_female" />
-      <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
-    </Equipments>
+  <xsl:template match="NPCCharacter[@id='lord_1_ii']/Traits">
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="8" />
+      <Trait id="Commander" value="17" />
+      <Trait id="Politician" value="10" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
   </xsl:template>
   <!-- Selected female lords: replace face with preset BodyProperties, keep original age from npc/@age -->
   <xsl:template match="NPCCharacter[@id='lord_1_ii']/face">
     <face>
-      <BodyProperties version="4" age="{../@age}" weight="0.1682" build="0.777" key="0000BC0FC08830046B73546496585B8777C8866295A09FB6846908688AC40807008C3603080150030000000000000000000000000000000000000000791C30C0" />
+      <BodyProperties version="4" age="{../@age}" weight="0.1651" build="0.1998" key="0019D40FC0FC300A5E8994586368879494D589462B9AB8297DEBBAB4879A877701B326140B4752400000000000000000000000000000000000000000797C2001" />
     </face>
   </xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_asakura_1']/face">

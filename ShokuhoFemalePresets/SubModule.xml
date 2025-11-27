@@ -66,5 +66,11 @@
         <GameType value="ShokuhoCampaign" />
       </IncludedGameTypes>
     </XmlNode>
+    <XmlNode>
+      <XmlName id="NPCCharacters" path="spspecialcharacters/spspecialcharacters" />
+      <IncludedGameTypes>
+        <GameType value="ShokuhoCampaign" />
+      </IncludedGameTypes>
+    </XmlNode>
   </Xmls>
 </Module>
